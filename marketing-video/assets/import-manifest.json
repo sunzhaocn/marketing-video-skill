@@ -1,0 +1,4138 @@
+[
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0090D199A2F96B83701E82846D040C6A.jpg",
+    "path": "assets/表情包/0090D199A2F96B83701E82846D040C6A.gif",
+    "format": "GIF",
+    "bytes": 22989,
+    "sha256": "c1a495d6986457d3dfd432fc94dbc38caa6cef922bb33b6e2b581f25c64048b8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0162CE02D64E29AC218D394F6433B96F.jpg",
+    "path": "assets/表情包/0162CE02D64E29AC218D394F6433B96F.jpg",
+    "format": "JPEG",
+    "bytes": 51589,
+    "sha256": "c1e407114b621b1ac6905d3165dd33efb0e8fe79463f74aa6f74ecf05defad6e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/01F2C4EB5E0D03CF8421E040408761CA.jpg",
+    "path": "assets/表情包/01F2C4EB5E0D03CF8421E040408761CA.jpg",
+    "format": "JPEG",
+    "bytes": 98506,
+    "sha256": "e0d250c075542c315624ad9b8d9c69ef6a9d0765c587e9a14a5004a402a8af6b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/024928B8A0AB32FA357D1561D656E47A.jpg",
+    "path": "assets/表情包/024928B8A0AB32FA357D1561D656E47A.jpg",
+    "format": "JPEG",
+    "bytes": 84730,
+    "sha256": "4989a5d1b2017a84d278efbaf4c7de4e3bb74c7277b9192898daab080dc2fb51"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/029C0E451E2D1045B03D92A58B113A0C.jpg",
+    "path": "assets/表情包/029C0E451E2D1045B03D92A58B113A0C.jpg",
+    "format": "JPEG",
+    "bytes": 256332,
+    "sha256": "19c61b8b233609abd4f1a2e410d3d5b278c8b1ffc6c35fa0020cba090921058e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/02B9B63E899FA1DEFF684E2BDC502949.jpg",
+    "path": "assets/表情包/02B9B63E899FA1DEFF684E2BDC502949.jpg",
+    "format": "JPEG",
+    "bytes": 8774,
+    "sha256": "f06b17e0310e2af3ce77929e4b7cd4f0cd9ca0f7bd2b8bcfa7bebfbdd3506e33"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/02C4564FAD5C7CB3B26CD4F544CBD814.jpg",
+    "path": "assets/表情包/02C4564FAD5C7CB3B26CD4F544CBD814.jpg",
+    "format": "JPEG",
+    "bytes": 58869,
+    "sha256": "824ffeb7b5f1e2d9adebd9250881f2e2d04084537660618ddf161b1afbec973b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/02D8E7B97656CC2920241B7877645EF5.jpg",
+    "path": "assets/表情包/02D8E7B97656CC2920241B7877645EF5.jpg",
+    "format": "JPEG",
+    "bytes": 104931,
+    "sha256": "828af8ca320b45862f8fa5f4ba47d006aaf401611f184ba985075c18dc4431e5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0303598389C879AABD30EBD62A2BEC7A.jpg",
+    "path": "assets/表情包/0303598389C879AABD30EBD62A2BEC7A.jpg",
+    "format": "JPEG",
+    "bytes": 121933,
+    "sha256": "eb93ca7aa61335af821ffe0388c5177a534a8b12dbec6d7887b6d1daab6bfc7f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/066653B81DE00513679B8BF70DC822E4.jpg",
+    "path": "assets/表情包/066653B81DE00513679B8BF70DC822E4.png",
+    "format": "PNG",
+    "bytes": 1072956,
+    "sha256": "22576ac963e99b96ed19639d19543647acacf5e9e296f608dd8bd1f807e17a17"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0752C03BEC683E1EC737DFE3D831AF12.jpg",
+    "path": "assets/表情包/0752C03BEC683E1EC737DFE3D831AF12.jpg",
+    "format": "JPEG",
+    "bytes": 71266,
+    "sha256": "df77bc31d5e25edfc3f92e6fcb7a059d7f8b7be074a489eeec019125555b8a27"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0758C411716E1EEAFCA14C12FE5CFA14.jpg",
+    "path": "assets/表情包/0758C411716E1EEAFCA14C12FE5CFA14.jpg",
+    "format": "JPEG",
+    "bytes": 1890,
+    "sha256": "8b75f7c69ab9cc075387445686a7ff7018da09829296fb1986183d12851feba9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/094556E0E8815BE4774C59B27585192A.jpg",
+    "path": "assets/表情包/094556E0E8815BE4774C59B27585192A.jpg",
+    "format": "JPEG",
+    "bytes": 106907,
+    "sha256": "025cfb3e5415f5dbdedfea92542eba47452351f44962d7db7813b5f2cd3b287c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0A1F7E9EB0D6300FB94C2F7211324BEE.jpg",
+    "path": "assets/表情包/0A1F7E9EB0D6300FB94C2F7211324BEE.jpg",
+    "format": "JPEG",
+    "bytes": 2473,
+    "sha256": "3e003860f47eeba0798ec9eb52a3541ee67b00e28d2a4f7f235fbeb9f6f4bb1e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0B1E6B9ABC92A87DBBE20837F906B22B.jpg",
+    "path": "assets/表情包/0B1E6B9ABC92A87DBBE20837F906B22B.jpg",
+    "format": "JPEG",
+    "bytes": 101428,
+    "sha256": "8f6a5d1380e990861d4fe95a04426dc2f7fc4e547de5e1e77e99b9a6e8307637"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0B5B3615885B64A90399A87CFE19401B.jpg",
+    "path": "assets/表情包/0B5B3615885B64A90399A87CFE19401B.jpg",
+    "format": "JPEG",
+    "bytes": 106112,
+    "sha256": "54566308abd1195d78eafc8cf86d19521545a4d4fa5f9141a08aeae21ec0de86"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0D3AB2D8BC550C96BB23C7B5D6EAE5C7.jpg",
+    "path": "assets/表情包/0D3AB2D8BC550C96BB23C7B5D6EAE5C7.jpg",
+    "format": "JPEG",
+    "bytes": 41198,
+    "sha256": "587836203ee2659cd153b1ac68848aea9e932a46f5fd64eb6445e19605d66f15"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0E3709EE6B507EED968E00953799B35F.jpg",
+    "path": "assets/表情包/0E3709EE6B507EED968E00953799B35F.gif",
+    "format": "GIF",
+    "bytes": 94159,
+    "sha256": "462cfa3cdaa4a921ce120323b5277c19502ff2a8458141ef337ffe2b8ff54d51"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0EE20E5C3020AF0A3A1CD1D01E752D6F.jpg",
+    "path": "assets/表情包/0EE20E5C3020AF0A3A1CD1D01E752D6F.jpg",
+    "format": "JPEG",
+    "bytes": 6556,
+    "sha256": "54204223da24eee8decbd53ce94cfa402ecb42e816f7ca978f16dec372f73a9a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/0F330939F50E61D81FE6B4DE47CB83B8.jpg",
+    "path": "assets/表情包/0F330939F50E61D81FE6B4DE47CB83B8.jpg",
+    "format": "JPEG",
+    "bytes": 9022,
+    "sha256": "051bfd2f122b83ff1c2b6b3b5335f532409d5692c66f19cb4706d8f7efe9984b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/11D2648D62B87857016BB16B38378C73.jpg",
+    "path": "assets/表情包/11D2648D62B87857016BB16B38378C73.jpg",
+    "format": "JPEG",
+    "bytes": 14432,
+    "sha256": "7b6bfd293cbbb346f2d8f4ec4d9d82010f89f4aace656bc6263fb3dff8c2bf85"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/12E73CB291DB36DA86163B782CE96A13.jpg",
+    "path": "assets/表情包/12E73CB291DB36DA86163B782CE96A13.jpg",
+    "format": "JPEG",
+    "bytes": 3479,
+    "sha256": "d8b111e633b232dc8405d67c578fded6104bedfcaa3da213a8cf16f0c97d347f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/148B2F5A7B7EFC85EE651C571F56E27F.jpg",
+    "path": "assets/表情包/148B2F5A7B7EFC85EE651C571F56E27F.jpg",
+    "format": "JPEG",
+    "bytes": 18860,
+    "sha256": "342dffeb1dc237308111075cf85eb7f2bfa575c38360f3acffad0c2992e60d2b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/150A06CAABA2ED624C5107EDE835955D.jpg",
+    "path": "assets/表情包/150A06CAABA2ED624C5107EDE835955D.png",
+    "format": "PNG",
+    "bytes": 17274,
+    "sha256": "be91ce45baf4981470d1315839ed89d1f6f8ab6555b792fd1c2b7dd0034cf1a5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1515CF206C92C58770C4BD7506CA4F39.jpg",
+    "path": "assets/表情包/1515CF206C92C58770C4BD7506CA4F39.jpg",
+    "format": "JPEG",
+    "bytes": 5737,
+    "sha256": "8f415f9b23b2c1f646d94921b96082d31fd5b0738c8ea90da7e5c541727cdc39"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1517D7CD4BCF312E8C03CC2F206ACCB2.jpg",
+    "path": "assets/表情包/1517D7CD4BCF312E8C03CC2F206ACCB2.gif",
+    "format": "GIF",
+    "bytes": 73329,
+    "sha256": "b7f1e8d62a28a8f8ab78c09d3422c23fc8b3541c6f81e6369d66ac5f957c913b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/153D27702E424F6E5D4BD1DB4FB6818E.jpg",
+    "path": "assets/表情包/153D27702E424F6E5D4BD1DB4FB6818E.jpg",
+    "format": "JPEG",
+    "bytes": 52733,
+    "sha256": "32a2b4e36698efbbe595606788c2f406cc6603a81cf954c53d714314ac9ae972"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/16D410563B420D34B89F09F4B8498533.jpg",
+    "path": "assets/表情包/16D410563B420D34B89F09F4B8498533.jpg",
+    "format": "JPEG",
+    "bytes": 3964,
+    "sha256": "e5d865fecb082f2972678320ab04eed1225e8347256fa6f68908ecf1a1d334c8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1705E0C3C4BB98E080A3E5CFFCA86F6F.jpg",
+    "path": "assets/表情包/1705E0C3C4BB98E080A3E5CFFCA86F6F.jpg",
+    "format": "JPEG",
+    "bytes": 179285,
+    "sha256": "fa1466f63f8f195aa33873f38cbd0d1ebc3feac08971149b887db9f6df4f0b6c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/177B678C17CCCF7470BBAB837D03BDF8.jpg",
+    "path": "assets/表情包/177B678C17CCCF7470BBAB837D03BDF8.jpg",
+    "format": "JPEG",
+    "bytes": 22659,
+    "sha256": "3cef073f5aeffef8d5b8d946e4cdc60df993ad3f89fc529588c66e608639a8ff"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/17927B2B166C426770F672BB0459C201.jpg",
+    "path": "assets/表情包/17927B2B166C426770F672BB0459C201.jpg",
+    "format": "JPEG",
+    "bytes": 21988,
+    "sha256": "c7175ae9fbcac34c35a31daae6a14379c9ed28f0c28fb3ca928910e826b9fbeb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/179C0C7583CC050BFDB8BB9C2186B36C.jpg",
+    "path": "assets/表情包/179C0C7583CC050BFDB8BB9C2186B36C.jpg",
+    "format": "JPEG",
+    "bytes": 136407,
+    "sha256": "13ad6c5ccd918ae1dc7b428effe4915ab71fd18314c49237e38d14b58c80e6e6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/17B13FE0FA56938B481117F5F18640A5.jpg",
+    "path": "assets/表情包/17B13FE0FA56938B481117F5F18640A5.gif",
+    "format": "GIF",
+    "bytes": 1485590,
+    "sha256": "2ecdd3916a4679ce47ea4304549e38cb14a87c55429bce74f957a0713b3adb75"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/18D3D5A43E3043D6AB53469EADB60DE9.jpg",
+    "path": "assets/表情包/18D3D5A43E3043D6AB53469EADB60DE9.jpg",
+    "format": "JPEG",
+    "bytes": 123728,
+    "sha256": "842c86b3ec458f36a5337cc6d2c1119ad5b268b0ab6df5816257ca8dd3ba85d0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1A4D12B17E244DBCE92427569DA9121C.jpg",
+    "path": "assets/表情包/1A4D12B17E244DBCE92427569DA9121C.jpg",
+    "format": "JPEG",
+    "bytes": 76873,
+    "sha256": "77fdeace6769a58b42fd5017e4ee2a551e7363e6e4bc835548d19b3ea78eb6dc"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1A535E237CA8B328BA2EB6F37EE6EC3F.jpg",
+    "path": "assets/表情包/1A535E237CA8B328BA2EB6F37EE6EC3F.jpg",
+    "format": "JPEG",
+    "bytes": 89539,
+    "sha256": "dabc2d66d384a618ad7324db5ae84cd8956d25bfb2ee37d907d3db4ef1cf5d2e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1AE8C625335F17B2D1ECB75B4DAD33CA.jpg",
+    "path": "assets/表情包/1AE8C625335F17B2D1ECB75B4DAD33CA.jpg",
+    "format": "JPEG",
+    "bytes": 17396,
+    "sha256": "9dfdb597c724b095ded754e4312a0218a7db82a7d1c114087aae425ab8bea13c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1B3A5B7EC7194152017E1F2EC89BA151.jpg",
+    "path": "assets/表情包/1B3A5B7EC7194152017E1F2EC89BA151.gif",
+    "format": "GIF",
+    "bytes": 319518,
+    "sha256": "ecda64ade078b716ad111fddb7814ac971c4e3c63c4f59bbf7fd193b34491c34"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1B3E9A40B4EADDA067A149EEAAF386F2.jpg",
+    "path": "assets/表情包/1B3E9A40B4EADDA067A149EEAAF386F2.gif",
+    "format": "GIF",
+    "bytes": 1435045,
+    "sha256": "e32d0fd6f2983ea5059066f4fc719df7aec94b33de4e1d82dafb19e2c6041793"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1B6CBED75D668797CF9A2460C58F5666.jpg",
+    "path": "assets/表情包/1B6CBED75D668797CF9A2460C58F5666.jpg",
+    "format": "JPEG",
+    "bytes": 21989,
+    "sha256": "41329ef56ee1bf1138c5efab03e027b3df05e09b2e435abf46fb1307f8cab80a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1BF30C30AD163C6F41D0380A1B46B5A6.jpg",
+    "path": "assets/表情包/1BF30C30AD163C6F41D0380A1B46B5A6.jpg",
+    "format": "JPEG",
+    "bytes": 77188,
+    "sha256": "13da99e962337937703b73ab7eb383435ac7ddc4142e1387c3227b94ea131804"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1D0EB687E215B4103A6A153CB292DAD5.jpg",
+    "path": "assets/表情包/1D0EB687E215B4103A6A153CB292DAD5.jpg",
+    "format": "JPEG",
+    "bytes": 85563,
+    "sha256": "d363b3fd019a57133a804357ec24efb1fffa6301ea4117d566de1a689b046228"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1D941FF3006F86A6FD4F12027B527696.jpg",
+    "path": "assets/表情包/1D941FF3006F86A6FD4F12027B527696.gif",
+    "format": "GIF",
+    "bytes": 35949,
+    "sha256": "4f3f21b6ebb7cf3d9ed5352910b49652b1d06e45bdbddb7bb25a1d689a1fefab"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1DD927CB20CB51FF05F39B290D4F6E63.jpg",
+    "path": "assets/表情包/1DD927CB20CB51FF05F39B290D4F6E63.jpg",
+    "format": "JPEG",
+    "bytes": 775,
+    "sha256": "5ac24f90ef57d443473b848ab8d2f33893bd0e1d83beb5ebac8946e423c69c86"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1EB802C7BBCD8A340872CA78420B4520.jpg",
+    "path": "assets/表情包/1EB802C7BBCD8A340872CA78420B4520.jpg",
+    "format": "JPEG",
+    "bytes": 1628,
+    "sha256": "1d46eac587591d1b81a919e4495ab397462805ec935aff087fd854196b329686"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1EC52FE53A2B89738B6C0AC949B861C1.jpg",
+    "path": "assets/表情包/1EC52FE53A2B89738B6C0AC949B861C1.gif",
+    "format": "GIF",
+    "bytes": 684615,
+    "sha256": "c5c68da1cf8b0b467b013c7743677b419e25ae379cbe8890cd3e1d390f0262be"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1F369272A1270AE5A9CE162BAB0E742C.jpg",
+    "path": "assets/表情包/1F369272A1270AE5A9CE162BAB0E742C.gif",
+    "format": "GIF",
+    "bytes": 246115,
+    "sha256": "1b2e6071cd2c2e304743851ac946eec590c2d7b0f8c9969dc4f350d9d7670b2b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1F7C9DB3F9860F39798ED08D26596532.jpg",
+    "path": "assets/表情包/1F7C9DB3F9860F39798ED08D26596532.gif",
+    "format": "GIF",
+    "bytes": 1600898,
+    "sha256": "49c6d917a6c6dc51360ba793aab5707d0044f5a40d1db3776bd0df73f949ad55"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1FAD4F12F28C4F951C403763D09DD902.jpg",
+    "path": "assets/表情包/1FAD4F12F28C4F951C403763D09DD902.jpg",
+    "format": "JPEG",
+    "bytes": 9722,
+    "sha256": "21581593b6efe5c0df9247bf41028b54cf4c492c69f5f6c53d60b290f824bddf"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/1FEDE2CEE796CC1A7F1E6FF5356DBD63.jpg",
+    "path": "assets/表情包/1FEDE2CEE796CC1A7F1E6FF5356DBD63.jpg",
+    "format": "JPEG",
+    "bytes": 269941,
+    "sha256": "06faec51759b26b450931c6e80ab334ad1bc966c3320b86137e86c463b2a391d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2044B7D5DC7C54B53EDAD0D5C5BD9001.jpg",
+    "path": "assets/表情包/2044B7D5DC7C54B53EDAD0D5C5BD9001.gif",
+    "format": "GIF",
+    "bytes": 199428,
+    "sha256": "778dd7b121985e0099d710d3bc012e0211d317dc068e30e73f0bf78155b1b8c7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2371A9B4E2567E5B8730AF8C5041C284.jpg",
+    "path": "assets/表情包/2371A9B4E2567E5B8730AF8C5041C284.jpg",
+    "format": "JPEG",
+    "bytes": 1153,
+    "sha256": "ff8ffabd606a06857d134c88d1cf709bbf9b8b3fefd5b3ca32f91afc39a6ece3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/24C12038E906D016EAF48068B611DA02.jpg",
+    "path": "assets/表情包/24C12038E906D016EAF48068B611DA02.jpg",
+    "format": "JPEG",
+    "bytes": 42806,
+    "sha256": "f470e99ae82d588ea64477000311b9d5c9c51c041bcb47e8d321859bcdcba854"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/25F1D793E3D6316BD6E579A974D12907.jpg",
+    "path": "assets/表情包/25F1D793E3D6316BD6E579A974D12907.jpg",
+    "format": "JPEG",
+    "bytes": 113298,
+    "sha256": "0ffaccd1fa508a936eaf3464e463beee2b390862aca301f4850fcf6b90279f29"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/270B05B643A88ABA21B28FCA7A57D42C.jpg",
+    "path": "assets/表情包/270B05B643A88ABA21B28FCA7A57D42C.gif",
+    "format": "GIF",
+    "bytes": 27871,
+    "sha256": "80c42e02ea8692fd849f41249bc3a544a63f3014b131e57437c494deb4cb84ca"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/27164D498621CC31947E0FDB156B3627.jpg",
+    "path": "assets/表情包/27164D498621CC31947E0FDB156B3627.jpg",
+    "format": "JPEG",
+    "bytes": 43152,
+    "sha256": "42cbf0d1873fd644da396af5cdabbb413e3dc5fa822cf8a9287d09582c356151"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/273B9B24E576BB28D7DACBC719F0C3D0.jpg",
+    "path": "assets/表情包/273B9B24E576BB28D7DACBC719F0C3D0.jpg",
+    "format": "JPEG",
+    "bytes": 44672,
+    "sha256": "aba917777a1b3c7920d757a4a984968b02283966801eb71b79c38d0cdab5c59a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/27AF2D90989290D0534EEFCEF4CDE3C3.jpg",
+    "path": "assets/表情包/27AF2D90989290D0534EEFCEF4CDE3C3.jpg",
+    "format": "JPEG",
+    "bytes": 15211,
+    "sha256": "dbe98c8d25f3306982c4da76d0d3dcc4fa584554c34461e039aceeef00083a89"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/27CE07DB7E6D8A8F14EA00BE7A3554C0.jpg",
+    "path": "assets/表情包/27CE07DB7E6D8A8F14EA00BE7A3554C0.jpg",
+    "format": "JPEG",
+    "bytes": 8648,
+    "sha256": "4fbe4b6e22e280b5c1780f942fc7505d7bba10be358cf10f186a37526cfc4df7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2998284A0A39D7C147BE8A1FCF5EDDFA.jpg",
+    "path": "assets/表情包/2998284A0A39D7C147BE8A1FCF5EDDFA.jpg",
+    "format": "JPEG",
+    "bytes": 10927,
+    "sha256": "644847d3d8fa1aab661a514760ec1ef6d85b4e4bb2697ecc16b4f268380b0a8e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2A15FCC695D8CDBC411E8764745D9B27.jpg",
+    "path": "assets/表情包/2A15FCC695D8CDBC411E8764745D9B27.gif",
+    "format": "GIF",
+    "bytes": 1800663,
+    "sha256": "4525cb8acac7e19d0b7d9910bc7f31aae7c2a45664046c2a35cba07cd2462734"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2A30CBA168DA54DF7246713278C8B58D.jpg",
+    "path": "assets/表情包/2A30CBA168DA54DF7246713278C8B58D.jpg",
+    "format": "JPEG",
+    "bytes": 22130,
+    "sha256": "c482723c021dcabc6b40eed51b4d11f399189988451dba12419cf7b00022ca5d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2A4DD705FA796164EAB71A69E2F37A6A.jpg",
+    "path": "assets/表情包/2A4DD705FA796164EAB71A69E2F37A6A.jpg",
+    "format": "JPEG",
+    "bytes": 2079,
+    "sha256": "9955e8516420f052e64290a6811b19501a0622c57668447ad040f73697f6a2d7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2A828BE055BA147DB9C791AEC2E44BA4.jpg",
+    "path": "assets/表情包/2A828BE055BA147DB9C791AEC2E44BA4.gif",
+    "format": "GIF",
+    "bytes": 737764,
+    "sha256": "a1d3cc4ce87387ba100f882933cc22044cbe3d01cace3e2d2608be14451c0ffa"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2A9CD885B6CA8C54E33207354F966E8D.jpg",
+    "path": "assets/表情包/2A9CD885B6CA8C54E33207354F966E8D.jpg",
+    "format": "JPEG",
+    "bytes": 9095,
+    "sha256": "1d55734ad6fb67d4bd5beae95cf0cb21f89840ef512e702dbe208ee379c94383"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2C2AE5AAC026DD3D7BCC093406D479D5.jpg",
+    "path": "assets/表情包/2C2AE5AAC026DD3D7BCC093406D479D5.jpg",
+    "format": "JPEG",
+    "bytes": 158303,
+    "sha256": "2ac96980e28b74c200961462626c9743945d31d0394df9698d1149fb4d0ca6ef"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2C3D49A30AD7573E34823D70A9761EB1.jpg",
+    "path": "assets/表情包/2C3D49A30AD7573E34823D70A9761EB1.jpg",
+    "format": "JPEG",
+    "bytes": 13612,
+    "sha256": "77dce411f34892f7b8d3f56ae37941e4929ab3e22c0ae1305ac3f4d446a286ae"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2CA9CA578884167B81C0DBC4CFCA74F2.jpg",
+    "path": "assets/表情包/2CA9CA578884167B81C0DBC4CFCA74F2.jpg",
+    "format": "JPEG",
+    "bytes": 16616,
+    "sha256": "590856a62f34cd53a1eae4319883ddf4510196af13953986ab45ae3d4cf99f27"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2CDC542F4EECEF7429FD7A796C59E7BB.jpg",
+    "path": "assets/表情包/2CDC542F4EECEF7429FD7A796C59E7BB.jpg",
+    "format": "JPEG",
+    "bytes": 140052,
+    "sha256": "df844f310a27142d21ec62e95681da24223ca389162b8894adc20fe11456daac"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2E3EDD1D31B1EA5B53BD8FC4E917341E.jpg",
+    "path": "assets/表情包/2E3EDD1D31B1EA5B53BD8FC4E917341E.jpg",
+    "format": "JPEG",
+    "bytes": 1400,
+    "sha256": "ea8a9683e1eca51e11b47f9bc211a5eded6243a9f500128dd676c5fc1345f23b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2F122AB43CB36B169A43ABB382D8BD9C.jpg",
+    "path": "assets/表情包/2F122AB43CB36B169A43ABB382D8BD9C.jpg",
+    "format": "JPEG",
+    "bytes": 72579,
+    "sha256": "3de662ca9a971f177cca93af125379d5f7481bee6f0e8712ccb97221b1f2eee4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2FA756EE5F5E61157D3F9E6F2F107F7E.jpg",
+    "path": "assets/表情包/2FA756EE5F5E61157D3F9E6F2F107F7E.jpg",
+    "format": "JPEG",
+    "bytes": 67590,
+    "sha256": "134fa2d4cf31f4c8890566b0446fe86ebcb5031146f35b4cfbac400774848568"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/2FE70160CE19CA554FCCC18044B7270A.jpg",
+    "path": "assets/表情包/2FE70160CE19CA554FCCC18044B7270A.jpg",
+    "format": "JPEG",
+    "bytes": 142501,
+    "sha256": "ac7a53e17f98da459fa73a0e4f2b71c24260a3050f94b7b191d7d78ddf6fe267"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3045879AAA43B050E098C3BBD3017EEF.jpg",
+    "path": "assets/表情包/3045879AAA43B050E098C3BBD3017EEF.png",
+    "format": "PNG",
+    "bytes": 8149,
+    "sha256": "86bfd7a6f3c2b537c09a5b419d43e41902934ac05a96b3a8546b7014b2a4b37e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/308CD52225269734B86EAB5D4C2268D2.jpg",
+    "path": "assets/表情包/308CD52225269734B86EAB5D4C2268D2.jpg",
+    "format": "JPEG",
+    "bytes": 109771,
+    "sha256": "071cd5a8c2dfd0511b0e66342356fe302e6928f38e6a27489c866f5d92d5cc9b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/309A3A3BCB4F7F791140724CA5429ACF.jpg",
+    "path": "assets/表情包/309A3A3BCB4F7F791140724CA5429ACF.jpg",
+    "format": "JPEG",
+    "bytes": 105463,
+    "sha256": "3c884317b32c99799929c48583aec935e154214cb4fc48b59e554da4e2df176a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/30B2386C254B333A283EDC40C85BA7EE.jpg",
+    "path": "assets/表情包/30B2386C254B333A283EDC40C85BA7EE.jpg",
+    "format": "JPEG",
+    "bytes": 12360,
+    "sha256": "0b7de763439be08b1647b297f06e42f4d096af9d615c702637b646460dd65a24"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/30D086B69E6918F22BC9A1F36807271A.jpg",
+    "path": "assets/表情包/30D086B69E6918F22BC9A1F36807271A.jpg",
+    "format": "JPEG",
+    "bytes": 16926,
+    "sha256": "623148ea17293a8bdfde35abcb144d2c5302b394ff576f5fa03eec7e60fec507"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/30E462613653FB0C4EC1A98D62D2C753.jpg",
+    "path": "assets/表情包/30E462613653FB0C4EC1A98D62D2C753.jpg",
+    "format": "JPEG",
+    "bytes": 24864,
+    "sha256": "6d0e24ed6d9d105aa703c7b2c0943fdac47347fce2e8ac5ba7d0e5ddf1e251c5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/313626842DD76940D499105FB831680E.jpg",
+    "path": "assets/表情包/313626842DD76940D499105FB831680E.jpg",
+    "format": "JPEG",
+    "bytes": 49051,
+    "sha256": "94876a8a610364b15051aedcbb3ffbdc4e075ef63bcc0d4e47cff9d1936b2156"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/313D33DB96BE7441518DE3365C437041.jpg",
+    "path": "assets/表情包/313D33DB96BE7441518DE3365C437041.jpg",
+    "format": "JPEG",
+    "bytes": 115033,
+    "sha256": "8948f4fbfa780c3f2ea542dae941c1e9ab0f8851e41fc0151e469f46559dc5bf"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/314DB052C1847C0B51794CE3EFF22482.jpg",
+    "path": "assets/表情包/314DB052C1847C0B51794CE3EFF22482.gif",
+    "format": "GIF",
+    "bytes": 5167,
+    "sha256": "4b0b7b40ce2feb8387e71155736fd5c6c282653968a3043bc3cc1087ee928e91"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/31641CEA89439119CC766B6A49608D7A.jpg",
+    "path": "assets/表情包/31641CEA89439119CC766B6A49608D7A.png",
+    "format": "PNG",
+    "bytes": 102757,
+    "sha256": "8af985de78830d4210aee13bf5eb9435809a37c291657837c74f52128901c61c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/319B9BCA1AC1D4E6E8366C2018B360EF.jpg",
+    "path": "assets/表情包/319B9BCA1AC1D4E6E8366C2018B360EF.jpg",
+    "format": "JPEG",
+    "bytes": 46007,
+    "sha256": "e9712e42d351b15c3a20f2b225e999b4b2651b1e930f6c5c598ae355f0b84602"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/31E9EA5C8BC86D18E7399D4EE7B98970.jpg",
+    "path": "assets/表情包/31E9EA5C8BC86D18E7399D4EE7B98970.jpg",
+    "format": "JPEG",
+    "bytes": 3100,
+    "sha256": "bf2af7ed4fd17c989ac4724acfdaf523354e84de238fc3f26dbe1ec9b9acfe76"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3209ABD19F094A893CFBC1DE55117CD9.jpg",
+    "path": "assets/表情包/3209ABD19F094A893CFBC1DE55117CD9.gif",
+    "format": "GIF",
+    "bytes": 242288,
+    "sha256": "79e34f85757a4939045bd8f894849a51ceb38c356205bbcf21983a8f7e30002a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/321CC7579FBD47B1F8FE59179B3D630B.jpg",
+    "path": "assets/表情包/321CC7579FBD47B1F8FE59179B3D630B.gif",
+    "format": "GIF",
+    "bytes": 21601,
+    "sha256": "0753b83a3dd3e3a41fe2db5671a354d44b2af406add76aec0cb752c9e1c55603"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3342734419704D6CCD853D38AC07A720.jpg",
+    "path": "assets/表情包/3342734419704D6CCD853D38AC07A720.jpg",
+    "format": "JPEG",
+    "bytes": 9085,
+    "sha256": "c062163afb741ad2fe7d3ca739af9dc987c2b4e244941efa7cc77d64712ee427"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/33860AE65769092A7B4BEFE97A89DF25.jpg",
+    "path": "assets/表情包/33860AE65769092A7B4BEFE97A89DF25.jpg",
+    "format": "JPEG",
+    "bytes": 59940,
+    "sha256": "9c7a00826ef4de928bef4a6ff1fbaf5b1ed990976ed8c93edb0f6e1ad6db526c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3447C8A07E288BC717C275440B1014C4.jpg",
+    "path": "assets/表情包/3447C8A07E288BC717C275440B1014C4.gif",
+    "format": "GIF",
+    "bytes": 1143277,
+    "sha256": "1c0e6892ece3bbe186d07a4cf57ad1e713b5f31bf8ef7b68b84fc7319bf14960"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/344840F2F24A801291E257C9B13FA617.jpg",
+    "path": "assets/表情包/344840F2F24A801291E257C9B13FA617.jpg",
+    "format": "JPEG",
+    "bytes": 118777,
+    "sha256": "99bfa25d339a7cfa15199655d101a1c3bb7aede4b92ff9d45e5781f6caaea914"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/34BCBF0CD090D1C1F2852B725CA4A475.jpg",
+    "path": "assets/表情包/34BCBF0CD090D1C1F2852B725CA4A475.jpg",
+    "format": "JPEG",
+    "bytes": 2779,
+    "sha256": "6278b4ae93f8207c21d2dda4655c414f10a54e0243cf1320fc06a1266cd4f004"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/368FC72C701F4615BB620A54AC54AE64.jpg",
+    "path": "assets/表情包/368FC72C701F4615BB620A54AC54AE64.jpg",
+    "format": "JPEG",
+    "bytes": 62181,
+    "sha256": "a621db356d8d6367e71e376e121ca168ed77459c662f0d92df2d3d8415f458a7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/37E6D49A0B4DF7FA5933F35309EAB246.jpg",
+    "path": "assets/表情包/37E6D49A0B4DF7FA5933F35309EAB246.jpg",
+    "format": "JPEG",
+    "bytes": 10415,
+    "sha256": "85e74f5798ca38470260f4b2ebe1ce7c5cee3603d2238fb0a717117f5f1e554c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/37EED9D1454F3123CBA2BA92E3914063.jpg",
+    "path": "assets/表情包/37EED9D1454F3123CBA2BA92E3914063.gif",
+    "format": "GIF",
+    "bytes": 1370839,
+    "sha256": "2459b0e6024c0316f369ca2d68723953d1fb71c5d46e2d624daec9935a91a957"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/38ABE55617D22361CF664035827AFF3D.jpg",
+    "path": "assets/表情包/38ABE55617D22361CF664035827AFF3D.jpg",
+    "format": "JPEG",
+    "bytes": 12365,
+    "sha256": "cde43c1ae3f9348eeeb6a6bb957ddf1b256770f249a4054c1a7fd072961d591b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/38DF0C326D9F5E23AA4987B96D1AC570.jpg",
+    "path": "assets/表情包/38DF0C326D9F5E23AA4987B96D1AC570.jpg",
+    "format": "JPEG",
+    "bytes": 11337,
+    "sha256": "355f8cad30d578121077610a8854dc4f03f855ed527657acbe58f15453d55dc6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/38EB5061F93145F0441BB2E09E63801A.jpg",
+    "path": "assets/表情包/38EB5061F93145F0441BB2E09E63801A.jpg",
+    "format": "JPEG",
+    "bytes": 26855,
+    "sha256": "978cdebbb5eea27e85cf894b18a1bc8a5553007290add29e71d779dcef3b02b8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/38EE6F6D3DE1374F3D00D91A2F6C7859.jpg",
+    "path": "assets/表情包/38EE6F6D3DE1374F3D00D91A2F6C7859.jpg",
+    "format": "JPEG",
+    "bytes": 28672,
+    "sha256": "5f241cfdbec42a612edbe87269363f1ceeabb559dfd599b05cf93e997860d79f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/398710501F4E575B5F08251A45C839EB.jpg",
+    "path": "assets/表情包/398710501F4E575B5F08251A45C839EB.jpg",
+    "format": "JPEG",
+    "bytes": 8492,
+    "sha256": "72c194fd76ab90caa0e2a0b6887468a03d9bb609a35cafd672a2cc58d1aab8c3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/398EE54DDB1CCA69A0E2120C59092B30.jpg",
+    "path": "assets/表情包/398EE54DDB1CCA69A0E2120C59092B30.gif",
+    "format": "GIF",
+    "bytes": 72475,
+    "sha256": "a697942ecc6ed05019c6eecf55ef3ac29c401ead0d6d97333e66add811bebe4f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/39C21DEFC5910A710C034A0FD1B23527.jpg",
+    "path": "assets/表情包/39C21DEFC5910A710C034A0FD1B23527.gif",
+    "format": "GIF",
+    "bytes": 55994,
+    "sha256": "90f1aa2bae3b48599b99477075742a5f343362ac8ec8666e589925104261769b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3A611316F3DA5582DFF92E1962902C45.jpg",
+    "path": "assets/表情包/3A611316F3DA5582DFF92E1962902C45.gif",
+    "format": "GIF",
+    "bytes": 1928869,
+    "sha256": "2e464f749c44d3be1e153596083386e07bd7f0006cfdb3b3053d14db9e3b6651"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3A8064FB487A1F7E73FEFE4CC0325EC5.jpg",
+    "path": "assets/表情包/3A8064FB487A1F7E73FEFE4CC0325EC5.gif",
+    "format": "GIF",
+    "bytes": 43817,
+    "sha256": "6a54dd2dabb973fcc8cd7d72ca9ba4fc027c3062bf86b20874f3db672623e16e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3ABC32FDCF54EC67FE82A9FEFA2642E2.jpg",
+    "path": "assets/表情包/3ABC32FDCF54EC67FE82A9FEFA2642E2.jpg",
+    "format": "JPEG",
+    "bytes": 164729,
+    "sha256": "4a28f70cbf4081174a7fc804e087d7839dc603132890ae7862c1062a750b3229"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3B3E36B56262E32BB8C52ADA2BAAE856.jpg",
+    "path": "assets/表情包/3B3E36B56262E32BB8C52ADA2BAAE856.jpg",
+    "format": "JPEG",
+    "bytes": 9852,
+    "sha256": "e0750d9f58c77d7f8c9048c87b424be08e06c6e333122d078d37f937b1d24dd3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3B4CE57D9E49DEC77E2D5F26165478E4.jpg",
+    "path": "assets/表情包/3B4CE57D9E49DEC77E2D5F26165478E4.gif",
+    "format": "GIF",
+    "bytes": 449537,
+    "sha256": "aff2345f99d8e17771728bf139617e34c5572123e9ef522f1d78807f502c9401"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3B7B0E3A701F808F540EE468BC0C98FF.jpg",
+    "path": "assets/表情包/3B7B0E3A701F808F540EE468BC0C98FF.jpg",
+    "format": "JPEG",
+    "bytes": 3561,
+    "sha256": "41e60b20fb5b08f383efc2faf0ec435bca55a66c5af745f96046a5128363e939"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3BC81C57597DE3C24EB7D7FB5828D273.jpg",
+    "path": "assets/表情包/3BC81C57597DE3C24EB7D7FB5828D273.jpg",
+    "format": "JPEG",
+    "bytes": 11289,
+    "sha256": "8ba98a73bbd8c073d43eecf56d0371966d5f7f3b97e1e35f5d2532b4487585d5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3C5ADAEFCA9E44892127259433C8D7C7.jpg",
+    "path": "assets/表情包/3C5ADAEFCA9E44892127259433C8D7C7.jpg",
+    "format": "JPEG",
+    "bytes": 33598,
+    "sha256": "bee94a5b66b876fdcad9ceb657b392457c6d5c0fdd8f830f16daa7ee9b91c8a2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3D39161D5D534189993A2E9A9A08A6D4.jpg",
+    "path": "assets/表情包/3D39161D5D534189993A2E9A9A08A6D4.jpg",
+    "format": "JPEG",
+    "bytes": 467,
+    "sha256": "c41a1dd0f643bdfab275412fef17a54e98c3c728cf0a24eaff85468c740fd430"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3D54DBAB667FAFEC0E5E76F543822B68.jpg",
+    "path": "assets/表情包/3D54DBAB667FAFEC0E5E76F543822B68.jpg",
+    "format": "JPEG",
+    "bytes": 2226,
+    "sha256": "51904531c88e91cad89270163a4029ae576f961ad3fdf6fc0c112e40da4ba718"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3E0CF3E365FA25A23C8E45A83ED2F493.jpg",
+    "path": "assets/表情包/3E0CF3E365FA25A23C8E45A83ED2F493.jpg",
+    "format": "JPEG",
+    "bytes": 22964,
+    "sha256": "ea592bec4c0b5e4578ff85ee6e0b6127b758ec9e68225092deb1698a0f49087f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3E206B854F03DDE123A971D17BE54424.jpg",
+    "path": "assets/表情包/3E206B854F03DDE123A971D17BE54424.gif",
+    "format": "GIF",
+    "bytes": 1901225,
+    "sha256": "a30e7309c78fedee29ff140794a1c5e834677a4bacbde5fb5f85972fc65d93b4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3F039AB1E1F6CDB9D19936CEA6D05F55.jpg",
+    "path": "assets/表情包/3F039AB1E1F6CDB9D19936CEA6D05F55.jpg",
+    "format": "JPEG",
+    "bytes": 9072,
+    "sha256": "e1c11f5c8c6f50dde2d9c444cbbc82806a829a3748afd4b35edb3025e2f5bb7b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3F14999246E66693DE3C506B5794F410.jpg",
+    "path": "assets/表情包/3F14999246E66693DE3C506B5794F410.jpg",
+    "format": "JPEG",
+    "bytes": 101332,
+    "sha256": "700274425458896da45b05a4192eeb542624228c9bfc9d1af21d1cb46eeea418"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/3F266C068CB0AF0B1DF8FE731A29B39A.jpg",
+    "path": "assets/表情包/3F266C068CB0AF0B1DF8FE731A29B39A.gif",
+    "format": "GIF",
+    "bytes": 1531945,
+    "sha256": "5185382efb5748a661d5fe2b6ef4173009b746999c63565d1394b91863ebb742"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/400ABE0BADF4849467B95355AAA0DE39.jpg",
+    "path": "assets/表情包/400ABE0BADF4849467B95355AAA0DE39.gif",
+    "format": "GIF",
+    "bytes": 40831,
+    "sha256": "34e2d64bf8ec566dfeb986da6e3775c89ce1dea2afca1d52d9d4eb6bd19b7b56"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/406D17D166A1E015EE4966989BD77A7A.jpg",
+    "path": "assets/表情包/406D17D166A1E015EE4966989BD77A7A.jpg",
+    "format": "JPEG",
+    "bytes": 225524,
+    "sha256": "5b540da9173f4cfe42fdc221f8c524fb73157f37fcb9ab9b9bef3907219889af"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/406F1EAEF6EA40748BB0BA29EFFA80FC.jpg",
+    "path": "assets/表情包/406F1EAEF6EA40748BB0BA29EFFA80FC.gif",
+    "format": "GIF",
+    "bytes": 336260,
+    "sha256": "d85960bf14e7fcc50020c574a469824f6fe0fa6eddbc6371b082639399f65ff5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4133D3AB1E81C4D92E103B3FB5017FA8.jpg",
+    "path": "assets/表情包/4133D3AB1E81C4D92E103B3FB5017FA8.gif",
+    "format": "GIF",
+    "bytes": 908499,
+    "sha256": "12f85e36a9facdce0d7d57bec258d0d4c14d88198f3ce24e6a84be5de2134be9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4134C1BD62CBC042BC21206EB8510825.jpg",
+    "path": "assets/表情包/4134C1BD62CBC042BC21206EB8510825.jpg",
+    "format": "JPEG",
+    "bytes": 30390,
+    "sha256": "4a5e553c10838a94eab9c03a72492ca24ae9c3ab14aaf48ad72cab78f09f1269"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/415082F7D31BA13C0737B17674112238.jpg",
+    "path": "assets/表情包/415082F7D31BA13C0737B17674112238.jpg",
+    "format": "JPEG",
+    "bytes": 1951,
+    "sha256": "d9cabcdb220c76b9f0d237011e3ec48f71f6ce40ecdb40ec557733a07891bbf9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/41ED62D7FC42D06B1E13A24689047E11.jpg",
+    "path": "assets/表情包/41ED62D7FC42D06B1E13A24689047E11.png",
+    "format": "PNG",
+    "bytes": 26827,
+    "sha256": "b8ddcf3c0dd92923d7197376c86c2c18439a19b80be4fd826ee83ccfae172e14"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/426A8A2D69C73537FA899D4663114CD9.jpg",
+    "path": "assets/表情包/426A8A2D69C73537FA899D4663114CD9.jpg",
+    "format": "JPEG",
+    "bytes": 12818,
+    "sha256": "d5b13eac158bb3ce4a17293ca9f5895c4eb5ba83e47d9c2417c6ab284fcb8d08"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/42C3963A8336C3E2266490B2595266F5.jpg",
+    "path": "assets/表情包/42C3963A8336C3E2266490B2595266F5.jpg",
+    "format": "JPEG",
+    "bytes": 10730,
+    "sha256": "db0d2e3be821d4449b567cfabb6e672d14a2ac3204ae499b6b18e78ed9861992"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/441C35F9161A2AFAA33CAE9ED3D26256.jpg",
+    "path": "assets/表情包/441C35F9161A2AFAA33CAE9ED3D26256.jpg",
+    "format": "JPEG",
+    "bytes": 6516,
+    "sha256": "676e15e6e8c611937a01ffda72332ce6b2a03c95b6f3c899f9fc23a7f6e29583"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4507DD90810DA894CDDF0D5FB75BC138.jpg",
+    "path": "assets/表情包/4507DD90810DA894CDDF0D5FB75BC138.gif",
+    "format": "GIF",
+    "bytes": 23119,
+    "sha256": "6be0d69b89dde700a87851900d8637d0691c6886739e030f4dc928237b0dc6eb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4555761C23F738168F077072DEB5DDB5.jpg",
+    "path": "assets/表情包/4555761C23F738168F077072DEB5DDB5.jpg",
+    "format": "JPEG",
+    "bytes": 49617,
+    "sha256": "98ac58af6cf5c93a8cb91d31202a87f4633d34d4eb592f414ec776511499b30b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/45FF29227FE4F6B04484D947EB9E124B.jpg",
+    "path": "assets/表情包/45FF29227FE4F6B04484D947EB9E124B.jpg",
+    "format": "JPEG",
+    "bytes": 100862,
+    "sha256": "f4bc6a3f64ca0dc989dcf0e141a841aa8aacba13179c7231b1d19172be8420e8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/469F12655157B69BB7F6DC7D0CC42000.jpg",
+    "path": "assets/表情包/469F12655157B69BB7F6DC7D0CC42000.jpg",
+    "format": "JPEG",
+    "bytes": 163327,
+    "sha256": "ff1fc900baada1cd5893502c0b1c69389fd0738e895c45caa91b215e9b8295d0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/46C1BCCBAF18664612F781DDD5203A05.jpg",
+    "path": "assets/表情包/46C1BCCBAF18664612F781DDD5203A05.jpg",
+    "format": "JPEG",
+    "bytes": 30486,
+    "sha256": "8903541d96c05d9b7b3c4be8e30bbc2f668cfadb03accd065c4aa07d12fcc7ac"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/46CCAFF4915154C76BF1AA02D87C3D4F.jpg",
+    "path": "assets/表情包/46CCAFF4915154C76BF1AA02D87C3D4F.jpg",
+    "format": "JPEG",
+    "bytes": 9577,
+    "sha256": "dd8d171dbed92c47957a006834d027a5b8788a1d6010eeb78c780ef9b7f7b194"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/47213B380AA3A22F1F499BAE21C327AC.jpg",
+    "path": "assets/表情包/47213B380AA3A22F1F499BAE21C327AC.gif",
+    "format": "GIF",
+    "bytes": 1547,
+    "sha256": "331d2fbad0b79aca303642844659844155f31d9582655bce34d25a5c6621b337"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4786F55B97415B025FB5B0D94DD0B5AA.jpg",
+    "path": "assets/表情包/4786F55B97415B025FB5B0D94DD0B5AA.jpg",
+    "format": "JPEG",
+    "bytes": 7225,
+    "sha256": "52bee80a9792c21f5f0527d2cab049506cd5ca57f8807c50af1974f09e849d91"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/47A59B5287E9917AD650F3F25EE93520.jpg",
+    "path": "assets/表情包/47A59B5287E9917AD650F3F25EE93520.gif",
+    "format": "GIF",
+    "bytes": 4913,
+    "sha256": "7189b04f31b52b9f2340b977884f9c74d1659a8354e806393b72b992f40644f2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4806449ECB0272E412B3F5EF9D973B9A.jpg",
+    "path": "assets/表情包/4806449ECB0272E412B3F5EF9D973B9A.jpg",
+    "format": "JPEG",
+    "bytes": 2141,
+    "sha256": "47e5c7c27bfd06972a482c1db6df44b927f7b67f55cfc53c6f2885404555ce05"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/48642AC75C2CCADA4F63870D69AF355D.jpg",
+    "path": "assets/表情包/48642AC75C2CCADA4F63870D69AF355D.gif",
+    "format": "GIF",
+    "bytes": 83952,
+    "sha256": "35e9bef7022393076e6554f3bb6a257e4f95e689e66bbdfb649699fa2b885c80"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/489E4FA8661EF33ECB7F269ED51C3BC4.jpg",
+    "path": "assets/表情包/489E4FA8661EF33ECB7F269ED51C3BC4.jpg",
+    "format": "JPEG",
+    "bytes": 140745,
+    "sha256": "08c440b062d0f18e5f82299cfa77ad5d6c288c84fbbfe2e2b020f0c59ee14bb3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/48A44778C6E549F277D8F7B0A002F706.jpg",
+    "path": "assets/表情包/48A44778C6E549F277D8F7B0A002F706.jpg",
+    "format": "JPEG",
+    "bytes": 3835,
+    "sha256": "390c6be18eb37be0ad9f63fdfd52e276ec7c94a3ed8d081f91779a9662e1599d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/496A929BFB32834D57450457BB2E7931.jpg",
+    "path": "assets/表情包/496A929BFB32834D57450457BB2E7931.gif",
+    "format": "GIF",
+    "bytes": 15164,
+    "sha256": "2d1f75a3551fa4bb480a9e61d7f76a87b3e62d5f5a9b286af8514dd0fd3478d5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4990F719C68F532543FAE57D80448C35.jpg",
+    "path": "assets/表情包/4990F719C68F532543FAE57D80448C35.jpg",
+    "format": "JPEG",
+    "bytes": 101380,
+    "sha256": "684ecc840c86a495e4f4d3d592963f0a2931ff1e1a218d62e6d16b18ac39e7bb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4A7157AEB9C28A5F2550F5E5AFF70A22.jpg",
+    "path": "assets/表情包/4A7157AEB9C28A5F2550F5E5AFF70A22.jpg",
+    "format": "JPEG",
+    "bytes": 9136,
+    "sha256": "762a439acff5b4404ddb657529a0d1d0834c4d460227d7a645a6fa09eb60d2f0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4AE740A335EEB6C1062C7314063CA64A.jpg",
+    "path": "assets/表情包/4AE740A335EEB6C1062C7314063CA64A.jpg",
+    "format": "JPEG",
+    "bytes": 11588,
+    "sha256": "71247471f97bee0fe0c0490400d35c2518705451178f27d5e616846e8063eee0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4B0B694233226EA1505013712A65F72B.jpg",
+    "path": "assets/表情包/4B0B694233226EA1505013712A65F72B.jpg",
+    "format": "JPEG",
+    "bytes": 46319,
+    "sha256": "2f2bf06c45253756f8504391caaf0e18b7921087e2d5e04373b2877c060a2f97"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4B66AE3B5F61443A45310EDD2C9E35FE.jpg",
+    "path": "assets/表情包/4B66AE3B5F61443A45310EDD2C9E35FE.jpg",
+    "format": "JPEG",
+    "bytes": 31625,
+    "sha256": "e7f4b88c705716b8f33e21c1a70aa50992d09f02b4d52d7019c1b0000ea17200"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4B988E4D67F5D69033C981CADF9BF5F8.jpg",
+    "path": "assets/表情包/4B988E4D67F5D69033C981CADF9BF5F8.jpg",
+    "format": "JPEG",
+    "bytes": 7281,
+    "sha256": "3f25973d56e11879d26b65fa5bd3a7e227ea5419026453390411510796269e9b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4BCA2E81759A356AD9F17D18AC72179F.jpg",
+    "path": "assets/表情包/4BCA2E81759A356AD9F17D18AC72179F.gif",
+    "format": "GIF",
+    "bytes": 581130,
+    "sha256": "0497f982d4e6852b68283e23f2f03ce951e7741eadad05b2292f69f65a728e69"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4C4C8F6E49D4A637FDC46CDD0A1DEFB3.jpg",
+    "path": "assets/表情包/4C4C8F6E49D4A637FDC46CDD0A1DEFB3.jpg",
+    "format": "JPEG",
+    "bytes": 3148,
+    "sha256": "177d67fe4714f072f9b8b5e58927a2b66e0b5441eb9b6f4f8a325d29b45dfae0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4C80FA8A86AC21D23185324A9F60974A.jpg",
+    "path": "assets/表情包/4C80FA8A86AC21D23185324A9F60974A.jpg",
+    "format": "JPEG",
+    "bytes": 25980,
+    "sha256": "df28d75a4e03fa0df437471ca7afd109adaa62e1e9de3bcfaa0c31a836d900f3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4D00E9FDB7B17BC8C37F9B2CC25E8F7C.jpg",
+    "path": "assets/表情包/4D00E9FDB7B17BC8C37F9B2CC25E8F7C.gif",
+    "format": "GIF",
+    "bytes": 2095,
+    "sha256": "abae7d0ad94a73c1f1164bc02555e3b76bb1da210116c5272f0e2d35ebb533f7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4DB534DF11CB726E63407BB024E8EB8D.jpg",
+    "path": "assets/表情包/4DB534DF11CB726E63407BB024E8EB8D.jpg",
+    "format": "JPEG",
+    "bytes": 236494,
+    "sha256": "862f00c83034ca25abb6b1731494737d33d883659904d8eff1f277bcc48fb55c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4DE1D139DA538F3CC6D75FBD54D3F7B3.jpg",
+    "path": "assets/表情包/4DE1D139DA538F3CC6D75FBD54D3F7B3.jpg",
+    "format": "JPEG",
+    "bytes": 177083,
+    "sha256": "8569b7f1a7c0bc3c3593d3c26374efcf3d9280d117f82a87233266a364e35cff"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4DE2F08F8C328FD7543F58843058E26F.jpg",
+    "path": "assets/表情包/4DE2F08F8C328FD7543F58843058E26F.png",
+    "format": "PNG",
+    "bytes": 5483,
+    "sha256": "0c7c7f3ec74b53d4fdf9d7b717cd3e622a1b0ae592667ef3a329cfd4d34bb9cd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4ECD4ADE32C7A9FB3E348E902E8E64CE.jpg",
+    "path": "assets/表情包/4ECD4ADE32C7A9FB3E348E902E8E64CE.jpg",
+    "format": "JPEG",
+    "bytes": 15161,
+    "sha256": "d476d0c65e67e626961347aae5acbf69166d5d0135387d4e168a438894f1bf53"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4ED8C4ECE66622BA421890BE8621A838.jpg",
+    "path": "assets/表情包/4ED8C4ECE66622BA421890BE8621A838.gif",
+    "format": "GIF",
+    "bytes": 458311,
+    "sha256": "71936c590ea5bf894eaa741b6c583c32ccefa0a3702f100fc98348bbda9c5d05"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4F2A74646C7018F29B063995885B43C0.jpg",
+    "path": "assets/表情包/4F2A74646C7018F29B063995885B43C0.jpg",
+    "format": "JPEG",
+    "bytes": 111374,
+    "sha256": "38422cc055ac1f6c6f6992fb9f83c32e822c35a7d5cde569a0deea331e1c1f66"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/4F4CACBAB0569C2D59C132E06440DE65.jpg",
+    "path": "assets/表情包/4F4CACBAB0569C2D59C132E06440DE65.jpg",
+    "format": "JPEG",
+    "bytes": 3736,
+    "sha256": "836fbff92041ff072ba6d5be6aed294c0b43e9d0011a4c08eb6a7fe84a580bc8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5004515E0001000CA450A542AE937EAD.jpg",
+    "path": "assets/表情包/5004515E0001000CA450A542AE937EAD.jpg",
+    "format": "JPEG",
+    "bytes": 67221,
+    "sha256": "51997e3199bea90615a28d26cc1671cfcee916536a6684abe61f967276314378"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/50539EFF33D479E5D003506F1E30742A.jpg",
+    "path": "assets/表情包/50539EFF33D479E5D003506F1E30742A.jpg",
+    "format": "JPEG",
+    "bytes": 56774,
+    "sha256": "05d8d51a1c97bcf57ce02747aec7b1ffd333918a6d9d97089549fe2441528d05"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/508012143F1941B60B590C36ED648A7C.jpg",
+    "path": "assets/表情包/508012143F1941B60B590C36ED648A7C.gif",
+    "format": "GIF",
+    "bytes": 1022499,
+    "sha256": "8ee7d5496e6c313439f0999f7d6d49620a65b2c121a87c49b1626e7563717404"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/50D4D7BE46E94AF657CA828506A8F989.jpg",
+    "path": "assets/表情包/50D4D7BE46E94AF657CA828506A8F989.jpg",
+    "format": "JPEG",
+    "bytes": 8538,
+    "sha256": "980bc99e81c72b283bc2938019eed1948a7cefa399b4de19671d98bb87ae2d46"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/526C2390DCB9F05E9367BC70A5CAC6BB.jpg",
+    "path": "assets/表情包/526C2390DCB9F05E9367BC70A5CAC6BB.jpg",
+    "format": "JPEG",
+    "bytes": 71597,
+    "sha256": "2714a9097aae23d68fe09713cf6366bd5cdc5bd60b7e69137c04a2a852ab7b0a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/538DE8143E93B7BF9186E8F63FFC9CD4.jpg",
+    "path": "assets/表情包/538DE8143E93B7BF9186E8F63FFC9CD4.jpg",
+    "format": "JPEG",
+    "bytes": 39105,
+    "sha256": "11cac0ea21454a517c6b41be7b40fffdbd8a208ee9b612685cbb5f107aed59bb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/54FBDA8887E233D5A2FBB0C226C33F30.jpg",
+    "path": "assets/表情包/54FBDA8887E233D5A2FBB0C226C33F30.jpg",
+    "format": "JPEG",
+    "bytes": 10617,
+    "sha256": "8377be67e37dc96dc8d4d54e53f6ddd65147d3f43e4e5bca13e502120cfd001e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5530D0DB44716BC455F041F763ABA8F0.jpg",
+    "path": "assets/表情包/5530D0DB44716BC455F041F763ABA8F0.jpg",
+    "format": "JPEG",
+    "bytes": 24510,
+    "sha256": "e28fb351ac598c75365614e9a9b5101537836b19e56b370fd0e052a4a1b0a807"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/55927B28571394719B31E132DB290D67.jpg",
+    "path": "assets/表情包/55927B28571394719B31E132DB290D67.jpg",
+    "format": "JPEG",
+    "bytes": 30727,
+    "sha256": "22e50193ef2b7a9a410ce9dda1b19e6da27edef1f953a0b0599539c85fc6a165"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/559B436056485191575D95F4A3331D2C.jpg",
+    "path": "assets/表情包/559B436056485191575D95F4A3331D2C.jpg",
+    "format": "JPEG",
+    "bytes": 946,
+    "sha256": "284487874d31862f6d996e83267ac2b1c4570f013805843e24e8249c6e980681"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/55CE81463BCF740AE042C14ED2E9B68A.jpg",
+    "path": "assets/表情包/55CE81463BCF740AE042C14ED2E9B68A.jpg",
+    "format": "JPEG",
+    "bytes": 8386,
+    "sha256": "f24433c2750f1bb45743a66cff17e7b29e5d457e61c228196467b62e828fcb98"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5663DC297980CE5CEBB7A06AD165B5DF.jpg",
+    "path": "assets/表情包/5663DC297980CE5CEBB7A06AD165B5DF.gif",
+    "format": "GIF",
+    "bytes": 2668,
+    "sha256": "44d0e48c0d58f485552b0e0aa850e3cea5b554247548dcb6410e4df05a0ac956"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/56A880278304F3FE524A8454D7BE4F9D.jpg",
+    "path": "assets/表情包/56A880278304F3FE524A8454D7BE4F9D.jpg",
+    "format": "JPEG",
+    "bytes": 47886,
+    "sha256": "08ae300810cfbabf00cced80a795f0cdab65c3a72e0a8f41a29b00efdf16590e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/57A7D57747C4D1969DACB1B9636F5200.jpg",
+    "path": "assets/表情包/57A7D57747C4D1969DACB1B9636F5200.jpg",
+    "format": "JPEG",
+    "bytes": 61956,
+    "sha256": "cfc3cc5907b44a3942e53fc31cb1bc0779c26d54902e138664417ad439ca9fe8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/57AF4AC62B8719FE3D99CA786B0E9E0F.jpg",
+    "path": "assets/表情包/57AF4AC62B8719FE3D99CA786B0E9E0F.jpg",
+    "format": "JPEG",
+    "bytes": 202743,
+    "sha256": "9ff66b3b1d3b78a37949c9a6b9da30a7c226122b557f6a3ffda03de6ad87aa31"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/57B79171113E293DED2F7497BB6B85BD.jpg",
+    "path": "assets/表情包/57B79171113E293DED2F7497BB6B85BD.jpg",
+    "format": "JPEG",
+    "bytes": 13433,
+    "sha256": "80182d9c3ea6ca313c357e4a3cfe5e62379248bbeddd2c312dc6075afa504402"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/57FEC589B59FD8B34417AB6DBF730605.jpg",
+    "path": "assets/表情包/57FEC589B59FD8B34417AB6DBF730605.gif",
+    "format": "GIF",
+    "bytes": 27072,
+    "sha256": "35676593dc1ffcc89e819c7006e7bc43554892546aeed13907b1e426b708ae77"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/59583921BC7D38DD5FBCDE353CB82CC2.jpg",
+    "path": "assets/表情包/59583921BC7D38DD5FBCDE353CB82CC2.jpg",
+    "format": "JPEG",
+    "bytes": 7978,
+    "sha256": "cb286d653b5f4c4c2ef4819f6478f817b40813f4b2b73871ad63b7047defcce5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/595DE2B10E39C893E33FF69B91888C25.jpg",
+    "path": "assets/表情包/595DE2B10E39C893E33FF69B91888C25.jpg",
+    "format": "JPEG",
+    "bytes": 14619,
+    "sha256": "fcb858720a0afc2c51f2df2a050fcce2be2d9d1e409a700932a51aeb1e764e76"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5A993227FD8F38519D5869AA90A82129.jpg",
+    "path": "assets/表情包/5A993227FD8F38519D5869AA90A82129.jpg",
+    "format": "JPEG",
+    "bytes": 84807,
+    "sha256": "bb92cdca46c3395e45c7cea263f76f30b802d80bc1c93fb6b08f11b9693dfb4b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5AFE40D1164261EF3BDDD26A8D071306.jpg",
+    "path": "assets/表情包/5AFE40D1164261EF3BDDD26A8D071306.gif",
+    "format": "GIF",
+    "bytes": 8340,
+    "sha256": "a573384a052b8216fa1da388db832a7b5034689a4057c8209415b309cb6bcd96"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5B2FE9A6046AE9BE43E5449E4661FC12.jpg",
+    "path": "assets/表情包/5B2FE9A6046AE9BE43E5449E4661FC12.jpg",
+    "format": "JPEG",
+    "bytes": 2195,
+    "sha256": "d01a3e2d6508472f92a0acafb2170c3e2ed07e17a63e4261b7bd4aa2c2f5e088"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5BE7E8DE41279170A17E6F992DAFA850.jpg",
+    "path": "assets/表情包/5BE7E8DE41279170A17E6F992DAFA850.gif",
+    "format": "GIF",
+    "bytes": 71181,
+    "sha256": "8e16a990419fad2c49c8cf0dd0f0d78a3b5850199f3bfe966414b020830d492e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5C35E3F1ED59A1B08D64579F03BA203C.jpg",
+    "path": "assets/表情包/5C35E3F1ED59A1B08D64579F03BA203C.jpg",
+    "format": "JPEG",
+    "bytes": 58937,
+    "sha256": "98a0ef46d7d643903ef81ce07411318d16ecb4a11d0ecee385395ab19c448faa"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5C756B918C7242F53016C6DAD135A64D.jpg",
+    "path": "assets/表情包/5C756B918C7242F53016C6DAD135A64D.jpg",
+    "format": "JPEG",
+    "bytes": 287365,
+    "sha256": "fa3cd3746edd3aece35a1b0747a10f2ff116e4299207e4938546c06a6c8066b7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5CAEE8B9034E75684A806586031A3813.jpg",
+    "path": "assets/表情包/5CAEE8B9034E75684A806586031A3813.jpg",
+    "format": "JPEG",
+    "bytes": 40824,
+    "sha256": "fdf3298b0eb0bb605d90c20142682fbefb6425d8631ca2cc21715d612e3bfc14"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/5D17C5E60A0C359C97D5E63E03BB65C3.jpg",
+    "path": "assets/表情包/5D17C5E60A0C359C97D5E63E03BB65C3.jpg",
+    "format": "JPEG",
+    "bytes": 4360,
+    "sha256": "68326e4ab0a3fddb27c6c6475a0f8dccc7c065bf2995bde0dbe953f6c3b4f2f2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/609CE066D05FDE2D2C5DEF7A36B8A691.jpg",
+    "path": "assets/表情包/609CE066D05FDE2D2C5DEF7A36B8A691.gif",
+    "format": "GIF",
+    "bytes": 2598862,
+    "sha256": "75aa7f8ad6d68a61ed5fb717fce5bc794c2ba3ffb5573a4ebe518fc9683cbe72"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/609E8B42059A206FFE165AB3F79166BE.jpg",
+    "path": "assets/表情包/609E8B42059A206FFE165AB3F79166BE.gif",
+    "format": "GIF",
+    "bytes": 792526,
+    "sha256": "a35fc5c8b207a0b98cf1771d0a767533e82e4fb9691849c411b3d9d3a220a752"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/60CDAEE91476BA19086E6FB6D3D52DA7.jpg",
+    "path": "assets/表情包/60CDAEE91476BA19086E6FB6D3D52DA7.jpg",
+    "format": "JPEG",
+    "bytes": 4559,
+    "sha256": "a2050b6ebb7f63303b4ac03018e7195e64bb5a017d2e66ada90c0627a9f2a3f4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/60FDED8379ABC4112FBFCAEEBFDC57A2.jpg",
+    "path": "assets/表情包/60FDED8379ABC4112FBFCAEEBFDC57A2.png",
+    "format": "PNG",
+    "bytes": 29299,
+    "sha256": "d0b969e9dcb7cea3a5554daada199b8457c381f5f265bd618fde1cc5d6980a5e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/610919CAAAE6CCF138D63964A0018600.jpg",
+    "path": "assets/表情包/610919CAAAE6CCF138D63964A0018600.jpg",
+    "format": "JPEG",
+    "bytes": 1220,
+    "sha256": "893545645296d1bd1dff52d82f685f1837ef7d0584d14b56ba723275ec9b4984"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/616821241BA8550D2A8836ED9D8494ED.jpg",
+    "path": "assets/表情包/616821241BA8550D2A8836ED9D8494ED.gif",
+    "format": "GIF",
+    "bytes": 741066,
+    "sha256": "c5c449ec558539161d3dccc749cca106e3395cf48f34488f368dd10e07ee7044"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/62084B0803C4E6DE2BCFBAD1561F1FB9.jpg",
+    "path": "assets/表情包/62084B0803C4E6DE2BCFBAD1561F1FB9.gif",
+    "format": "GIF",
+    "bytes": 197760,
+    "sha256": "64ff3b01c798dd4326ce33181474d17ecff38a18724948dbb32e8e3437f52305"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/622CAED131E1AE352BB42CE2BB4ACEAF.jpg",
+    "path": "assets/表情包/622CAED131E1AE352BB42CE2BB4ACEAF.jpg",
+    "format": "JPEG",
+    "bytes": 7840,
+    "sha256": "30072b6628cac6800aa37ca4c6c66d58d9a2e3d7a6b2568ea4abebc26e4b5e91"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6272B351AB36D41ED3D7586CF8A50815.jpg",
+    "path": "assets/表情包/6272B351AB36D41ED3D7586CF8A50815.jpg",
+    "format": "JPEG",
+    "bytes": 5170,
+    "sha256": "c6198ab9c05740a4ebb5b15e384bc5884e48344e50029e0cc69fce677e12968e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6290A93CF859D2E2DFE4932C7028B763.jpg",
+    "path": "assets/表情包/6290A93CF859D2E2DFE4932C7028B763.jpg",
+    "format": "JPEG",
+    "bytes": 62531,
+    "sha256": "2a288fef9de3cb8315ec7680ed3a721aa25a139273490ee9e15a15c4cf4836d0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/632D0A3C730AB39F01E0AB091CAED6B6.jpg",
+    "path": "assets/表情包/632D0A3C730AB39F01E0AB091CAED6B6.jpg",
+    "format": "JPEG",
+    "bytes": 82868,
+    "sha256": "50bab6526a4b17d53eceaa2af06b06eb83c5c1aca5e4165255132485d53efc71"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6366EEB426266AD337D7BBCE81192EE7.jpg",
+    "path": "assets/表情包/6366EEB426266AD337D7BBCE81192EE7.jpg",
+    "format": "JPEG",
+    "bytes": 14599,
+    "sha256": "7502ecc672f977ea3da3cd995c75ce32c0e25940f9989fcf19fe3479bec85e47"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6384519FDCA1C2F1DB3D0226A8275CE7.jpg",
+    "path": "assets/表情包/6384519FDCA1C2F1DB3D0226A8275CE7.gif",
+    "format": "GIF",
+    "bytes": 1339140,
+    "sha256": "ffe8f666661c4eb945aec4a5b8bc4c798a2e461ea54d26427d2262df35301372"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6390BF7B42395D2026C6B2CCE91CB437.jpg",
+    "path": "assets/表情包/6390BF7B42395D2026C6B2CCE91CB437.jpg",
+    "format": "JPEG",
+    "bytes": 24359,
+    "sha256": "775f4b9411cfe16184c5a5a285112ab5638a66f03f1fba36c48dc0c845f0ec1a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/63BA2D2E1AA656B0845A5C3C9A50018D.jpg",
+    "path": "assets/表情包/63BA2D2E1AA656B0845A5C3C9A50018D.jpg",
+    "format": "JPEG",
+    "bytes": 37354,
+    "sha256": "6b69b67235ddeb360fe605a8ecac0a56a45434b098741785e4fba56f757aed55"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/64744FDF3CACC81AE774D081D5855669.jpg",
+    "path": "assets/表情包/64744FDF3CACC81AE774D081D5855669.jpg",
+    "format": "JPEG",
+    "bytes": 166899,
+    "sha256": "80d9b7277db32724163d997fc662fae0ef8af7f678280455481a0a0d300b7b37"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/64F2ADC495C3739FA8390B35631A12E9.jpg",
+    "path": "assets/表情包/64F2ADC495C3739FA8390B35631A12E9.jpg",
+    "format": "JPEG",
+    "bytes": 110198,
+    "sha256": "69055a7ac2be8ccef01a533fccb665af262326af4792ab1e2696d328c1d31fff"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6535F2DB754CB3022A4B0D064B4A4E11.jpg",
+    "path": "assets/表情包/6535F2DB754CB3022A4B0D064B4A4E11.jpg",
+    "format": "JPEG",
+    "bytes": 1326,
+    "sha256": "bc98d453c9328ef22f0282366066df110941a11d20d85ff65fd69437248d7e0a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/653E0D6F23A416BD0004F74ADC6565ED.jpg",
+    "path": "assets/表情包/653E0D6F23A416BD0004F74ADC6565ED.jpg",
+    "format": "JPEG",
+    "bytes": 57106,
+    "sha256": "93958390e7d0c0495092154fb7934700518a048aa0a71a0ccad5973d44251403"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/65624242402E939E3847BE8F4E9FD37A.jpg",
+    "path": "assets/表情包/65624242402E939E3847BE8F4E9FD37A.jpg",
+    "format": "JPEG",
+    "bytes": 15960,
+    "sha256": "b3484e2fd1042d6836a831d941d99345e35b3badca5e441ecbe842ca6145d934"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/661DB2BC0422411C353351BF0F5336DD.jpg",
+    "path": "assets/表情包/661DB2BC0422411C353351BF0F5336DD.gif",
+    "format": "GIF",
+    "bytes": 29780,
+    "sha256": "7dd47ebf996d5b37603b710e735d4b47e9495d103aaa3cb50543772f85ffdf99"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6692EB57F7292587A29A4F69B3A1DD13.jpg",
+    "path": "assets/表情包/6692EB57F7292587A29A4F69B3A1DD13.jpg",
+    "format": "JPEG",
+    "bytes": 84490,
+    "sha256": "73576055d24124f23bd86ab3f9d1153be16b7899d7dc9b80b5bb1d212cbfb641"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/67C0186AF322ED0F9C7BC285F9A5A64E.jpg",
+    "path": "assets/表情包/67C0186AF322ED0F9C7BC285F9A5A64E.jpg",
+    "format": "JPEG",
+    "bytes": 51191,
+    "sha256": "655161627d4a2be9a5aefe80155711f429562861da3f704a352ad2e86a096563"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/67EC11B0A3CA2888EB23D70546BD758F.jpg",
+    "path": "assets/表情包/67EC11B0A3CA2888EB23D70546BD758F.jpg",
+    "format": "JPEG",
+    "bytes": 7693,
+    "sha256": "4aaf627826845ce44edfaa17f1ac305c3ab8b0c8518750c979066fec6f06fab4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/67F95A4FB6F61172C3B7E4A9CF3678B8.jpg",
+    "path": "assets/表情包/67F95A4FB6F61172C3B7E4A9CF3678B8.gif",
+    "format": "GIF",
+    "bytes": 926781,
+    "sha256": "08eb43f6ff0950418a4b0de15dd8cd901b6d87f73d77e2e9cded93dab28c9e7c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/680677D52F513D7B5A82CFFBBFA1FE55.jpg",
+    "path": "assets/表情包/680677D52F513D7B5A82CFFBBFA1FE55.jpg",
+    "format": "JPEG",
+    "bytes": 10621,
+    "sha256": "4dbce3f0dca1eabc583421066dd0ab6cb456bb58419d695087d3698b0131dbe4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6806AC1331D69EA0043EFD480402B6BB.jpg",
+    "path": "assets/表情包/6806AC1331D69EA0043EFD480402B6BB.png",
+    "format": "PNG",
+    "bytes": 3096,
+    "sha256": "791ddf30c896b06f06af3824bcf97830c4ffb4e1207e5e195f6c5be5c82e9b71"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6820D0F3835650263939DE7FF2F581A7.jpg",
+    "path": "assets/表情包/6820D0F3835650263939DE7FF2F581A7.jpg",
+    "format": "JPEG",
+    "bytes": 184868,
+    "sha256": "5f95708909d7325f30835eb73e40f84485d70a90815588e048a5fdcf9f70d204"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/689E192FCADC13D6383B9B91DDFDB220.jpg",
+    "path": "assets/表情包/689E192FCADC13D6383B9B91DDFDB220.jpg",
+    "format": "JPEG",
+    "bytes": 3010,
+    "sha256": "30b762703f7d30a0102b55786a96cfebf3d49173717d934348db5b5287fad7a8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6909EF26E6B5DADC0F390FCC44386659.jpg",
+    "path": "assets/表情包/6909EF26E6B5DADC0F390FCC44386659.gif",
+    "format": "GIF",
+    "bytes": 1540395,
+    "sha256": "52bd1afdbef09c21e665b8fc3a25f576bb7439fbd4d8a2a01ba2b9c6e588c40f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/695012272B8485AE19C905DAB72A61AB.jpg",
+    "path": "assets/表情包/695012272B8485AE19C905DAB72A61AB.jpg",
+    "format": "JPEG",
+    "bytes": 14179,
+    "sha256": "6e332b72a3ba56128cb09ed9873c41763597dba3a0c08839887dfb23593a223c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/69FFEDAE4426638485F1EC59F6F7BF3D.jpg",
+    "path": "assets/表情包/69FFEDAE4426638485F1EC59F6F7BF3D.gif",
+    "format": "GIF",
+    "bytes": 1558631,
+    "sha256": "9d3941487eabef64be367fb717b59e03834749d0e6edae2878acb386b7333b57"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6A8D9419D4718A679C32E58D1FE52633.jpg",
+    "path": "assets/表情包/6A8D9419D4718A679C32E58D1FE52633.gif",
+    "format": "GIF",
+    "bytes": 467610,
+    "sha256": "3bf26d54e3b6685afdb3e33d4e9fd749c40579c27365d38dc11e718fbfe4e096"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6AFE8D6861D0F58DF9E9CBCA222B1838.jpg",
+    "path": "assets/表情包/6AFE8D6861D0F58DF9E9CBCA222B1838.jpg",
+    "format": "JPEG",
+    "bytes": 31643,
+    "sha256": "060f21e815bd98647c65282a174d67ef9c036bf8238d31e97c08f39d4eb1cb8f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6AFF0754B4B11900EF1F25B4D0AE3C80.jpg",
+    "path": "assets/表情包/6AFF0754B4B11900EF1F25B4D0AE3C80.jpg",
+    "format": "JPEG",
+    "bytes": 16241,
+    "sha256": "55d174b11969bed7e11f3f122ba65b5851a61229d924e43cb257fd215d55c4b6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6C4627C279090FA8DB34046BC27C8214.jpg",
+    "path": "assets/表情包/6C4627C279090FA8DB34046BC27C8214.gif",
+    "format": "GIF",
+    "bytes": 1236029,
+    "sha256": "e57f558f49df1b5293ff1dc0bc3a16e6317ac318192f6fd8b3b72b896d226f18"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6C9DBD98AD8AA8AF7B6F94C873D8B1F5.jpg",
+    "path": "assets/表情包/6C9DBD98AD8AA8AF7B6F94C873D8B1F5.jpg",
+    "format": "JPEG",
+    "bytes": 9952,
+    "sha256": "17abc6e3c4178d0f194c5927c280197ed086f98a27c128c37717b6ccae5806bb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6CB6E96A3B4603DACBB1D88193BAC2FE.jpg",
+    "path": "assets/表情包/6CB6E96A3B4603DACBB1D88193BAC2FE.gif",
+    "format": "GIF",
+    "bytes": 2431487,
+    "sha256": "287c7ab4db11c9f78bb88b303041a16e3af28aa03d73996682394afdecf4ad1e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6CD79266B013D400DFBE16B189838C00.jpg",
+    "path": "assets/表情包/6CD79266B013D400DFBE16B189838C00.jpg",
+    "format": "JPEG",
+    "bytes": 22363,
+    "sha256": "6716ccb9d8081e11cc83b929433ed02fbd19eb6264a581a89a231db93d736d8f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6CDB7F474826F46B3F3961605E97C0E5.jpg",
+    "path": "assets/表情包/6CDB7F474826F46B3F3961605E97C0E5.jpg",
+    "format": "JPEG",
+    "bytes": 8954,
+    "sha256": "ac23850f190214beb3f05906d4194dd951c77f97ef06d989bfd3a48d776cd9c9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6CDDD907CD1B693AAC690409804A6989.jpg",
+    "path": "assets/表情包/6CDDD907CD1B693AAC690409804A6989.gif",
+    "format": "GIF",
+    "bytes": 9673,
+    "sha256": "2b42550db95b8c1cd985ee6b00a4be9b1b31b19b17131484cbf44500931c70fd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6DABDBCA067AD5A14DD025F8BC48CF4D.jpg",
+    "path": "assets/表情包/6DABDBCA067AD5A14DD025F8BC48CF4D.jpg",
+    "format": "JPEG",
+    "bytes": 35083,
+    "sha256": "5fb5b51393699c48d4e4a86c648fcfa8776be915d510a2387e6d4612ff4459ae"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6E2C8FB8853A5FA997177543BE414400.jpg",
+    "path": "assets/表情包/6E2C8FB8853A5FA997177543BE414400.gif",
+    "format": "GIF",
+    "bytes": 1288916,
+    "sha256": "fc82edc2293508027f246767d6df3e2a11492dd8b9edd208ab6a78745e07f5ee"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6E65A39D8A002246E40F71810479893F.jpg",
+    "path": "assets/表情包/6E65A39D8A002246E40F71810479893F.gif",
+    "format": "GIF",
+    "bytes": 1470654,
+    "sha256": "ee4252bfb6fe23a4827f95121e72fcaf87975f114666a331692c28f50546b5b2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6F97740DCFEC197768CC0036DDBE9B55.jpg",
+    "path": "assets/表情包/6F97740DCFEC197768CC0036DDBE9B55.jpg",
+    "format": "JPEG",
+    "bytes": 85022,
+    "sha256": "98216e4545368a584591944f4965872169cfbcb2f7c1d878f01562a861580046"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/6FA482D290781739BAFCA650EDA1A258.jpg",
+    "path": "assets/表情包/6FA482D290781739BAFCA650EDA1A258.gif",
+    "format": "GIF",
+    "bytes": 71346,
+    "sha256": "f12e157694add09c99d9cbfa23a378b68e8ea6c7f85aa26a631b670a0e262da5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7057368C8C99AC95BD700A127443614F.jpg",
+    "path": "assets/表情包/7057368C8C99AC95BD700A127443614F.jpg",
+    "format": "JPEG",
+    "bytes": 89211,
+    "sha256": "abafed876bdf00901f4974e5dadb94ea459347386951160b60283618bb7058b5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/70B8589F0D87B3C7CBA76FE401FA6ACE.jpg",
+    "path": "assets/表情包/70B8589F0D87B3C7CBA76FE401FA6ACE.jpg",
+    "format": "JPEG",
+    "bytes": 109096,
+    "sha256": "7f5d5ab2c9c1055220d77d7eb1c870c5e8d62fc80de61701bcc38280694687fe"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/71C7840D3C59E27EA25002FE9D07AB33.jpg",
+    "path": "assets/表情包/71C7840D3C59E27EA25002FE9D07AB33.png",
+    "format": "PNG",
+    "bytes": 17645,
+    "sha256": "b5df6ba1026b108f952a9d030ee68b6f9abf1ffd4dfd7489f1601267f9770a6e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/72751C6572C2A31A24F58E3909A3B602.jpg",
+    "path": "assets/表情包/72751C6572C2A31A24F58E3909A3B602.jpg",
+    "format": "JPEG",
+    "bytes": 11318,
+    "sha256": "83f030f037a967a7fd029ab70f192192c6dc6f83bb38cc0b89987d36dfa5b8da"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/736C6F805D5811BDE3183403CAE8AE3E.jpg",
+    "path": "assets/表情包/736C6F805D5811BDE3183403CAE8AE3E.jpg",
+    "format": "JPEG",
+    "bytes": 52334,
+    "sha256": "64ebbba706ff6237e76e94f32e70a0db0e709dccdecb3927d6c5695a365ce2c1"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/737CDEB23492DDD38D13E39BCB30B826.jpg",
+    "path": "assets/表情包/737CDEB23492DDD38D13E39BCB30B826.jpg",
+    "format": "JPEG",
+    "bytes": 14271,
+    "sha256": "61c707fe335b76e84c6db0601a8d4472b6f533bd28f036d017120e1af36c653a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/73DC8207F660580D68F726C42A465D90.jpg",
+    "path": "assets/表情包/73DC8207F660580D68F726C42A465D90.gif",
+    "format": "GIF",
+    "bytes": 19063517,
+    "sha256": "dafd177dc891c5c50625e80e9b3f88dd0a71261d871490363a89b624c1bd33de"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/73EC83F7A92E45499BFCCA658B017B69.jpg",
+    "path": "assets/表情包/73EC83F7A92E45499BFCCA658B017B69.jpg",
+    "format": "JPEG",
+    "bytes": 4525,
+    "sha256": "68433780d54a0a3fc697011a1e091209b83becd8b8bbafcc62dc18068ff915e4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/74A0A7CDD84B62436F4F92FF58D8F963.jpg",
+    "path": "assets/表情包/74A0A7CDD84B62436F4F92FF58D8F963.gif",
+    "format": "GIF",
+    "bytes": 1311340,
+    "sha256": "c901c083fe8e03051d3a91005b50069f7ee5f5b9022a2bc43b7ba390e26381c3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/750F7E6A012F5CB31BC70C7E6B51AA5F.jpg",
+    "path": "assets/表情包/750F7E6A012F5CB31BC70C7E6B51AA5F.gif",
+    "format": "GIF",
+    "bytes": 23208,
+    "sha256": "d6636eacbb158ac00dd9a1444b17ac20fdd05aaedf807a35a87827f20b3350cf"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7665A62DA1161994F67D61C9BD803562.jpg",
+    "path": "assets/表情包/7665A62DA1161994F67D61C9BD803562.gif",
+    "format": "GIF",
+    "bytes": 1356354,
+    "sha256": "d751c4f9efea9821f44acb1d36836a5bc0b674169bf6ee5b6367086394a00f4c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/77CFC0AA6F380493A6F432786861B601.jpg",
+    "path": "assets/表情包/77CFC0AA6F380493A6F432786861B601.jpg",
+    "format": "JPEG",
+    "bytes": 24653,
+    "sha256": "c24cf0a9b66d519f53403f921b7366b7cf236eeb887784fba29a9d97a75bb543"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/77E6373C9F5639B192C3718FA7675D23.jpg",
+    "path": "assets/表情包/77E6373C9F5639B192C3718FA7675D23.gif",
+    "format": "GIF",
+    "bytes": 1660634,
+    "sha256": "5ae35e46d559442a99346b6f54898ffdf9d30af74c35fe3cef31704b7820e415"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7839B8050F14B4AB8468DE01E198CDD8.jpg",
+    "path": "assets/表情包/7839B8050F14B4AB8468DE01E198CDD8.gif",
+    "format": "GIF",
+    "bytes": 183784,
+    "sha256": "5a3aa9ed234af2281f490b07c527700766d4454392943a52a8153945aa209c63"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/783F7AB5932325A31659ACFDC7797669.jpg",
+    "path": "assets/表情包/783F7AB5932325A31659ACFDC7797669.jpg",
+    "format": "JPEG",
+    "bytes": 13113,
+    "sha256": "83fb7d27c8124dfc5ab658917673a3bd940f2184897c58bad34c0f3ff70b5eb8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/785F0925F898D4CB68C64E32B6ED5F6D.jpg",
+    "path": "assets/表情包/785F0925F898D4CB68C64E32B6ED5F6D.jpg",
+    "format": "JPEG",
+    "bytes": 6340,
+    "sha256": "409f7b40fd30f1c38b9914fbf9db20ea3b6bca281529494f1e919e9b60c91e73"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/794351BABFE9D41497394174523E31C7.jpg",
+    "path": "assets/表情包/794351BABFE9D41497394174523E31C7.gif",
+    "format": "GIF",
+    "bytes": 1725355,
+    "sha256": "15b860c96d93b411bf697863b7b59256a43affe48e45d992a583406598a73a2c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/798E750775E4F13A913D67CADAECF5DD.jpg",
+    "path": "assets/表情包/798E750775E4F13A913D67CADAECF5DD.gif",
+    "format": "GIF",
+    "bytes": 1146702,
+    "sha256": "3cae3fb9b639c1be005af0f7499179f89a1b192349ba9333edf56c9610a2b428"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/79DD561FF3E4AF1E3DBBD5F269142DFE.jpg",
+    "path": "assets/表情包/79DD561FF3E4AF1E3DBBD5F269142DFE.jpg",
+    "format": "JPEG",
+    "bytes": 2514,
+    "sha256": "635828823153a28bfc961d3dee0dda41d19cbc4effe5f2df56d79d8221527aa9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7A7CC23EF977C8579DBF5043D739D5A0.jpg",
+    "path": "assets/表情包/7A7CC23EF977C8579DBF5043D739D5A0.jpg",
+    "format": "JPEG",
+    "bytes": 1495,
+    "sha256": "bddcd6d17cd566e66c4b9c2a2190fecbc1738cf0e1fd55f4da244188f6f07217"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7AA860D9769FE7F8C5FC4A104A0B135A.jpg",
+    "path": "assets/表情包/7AA860D9769FE7F8C5FC4A104A0B135A.jpg",
+    "format": "JPEG",
+    "bytes": 32319,
+    "sha256": "a80f8d8412b97ab3ca8c423d7995a01ebf56c35dab4fd15e352599bb3af5ab4f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7AC54A567AFF4DAAF53E42E269D1D165.jpg",
+    "path": "assets/表情包/7AC54A567AFF4DAAF53E42E269D1D165.jpg",
+    "format": "JPEG",
+    "bytes": 148657,
+    "sha256": "1eaa71aa737d6aeb47e7a0e19c922b776eebe814f143ebd2f14a7f1ddc8c5918"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7B791AC59452CB95047FD8A2672BA0E6.jpg",
+    "path": "assets/表情包/7B791AC59452CB95047FD8A2672BA0E6.gif",
+    "format": "GIF",
+    "bytes": 1483692,
+    "sha256": "788fab2da17484d81c766d852679b4705261968f87d6c8398dbb8da657a40837"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7B940778159327D33EA8FDD7FC85704C.jpg",
+    "path": "assets/表情包/7B940778159327D33EA8FDD7FC85704C.jpg",
+    "format": "JPEG",
+    "bytes": 45141,
+    "sha256": "6cea0aad52452f0dc79321fe3303cb1b0a790102649d6549ad6edb8830588876"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7BBF0D41345A1A6660FE9E24962B0ACE.jpg",
+    "path": "assets/表情包/7BBF0D41345A1A6660FE9E24962B0ACE.jpg",
+    "format": "JPEG",
+    "bytes": 10934,
+    "sha256": "50f9c0267a61a2f59d02bec4d7e2e9df871b8a85d7eaaac1d47235ffb8e8fa09"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7CDFE77168AA5B7D8B0D6167704E8679.jpg",
+    "path": "assets/表情包/7CDFE77168AA5B7D8B0D6167704E8679.gif",
+    "format": "GIF",
+    "bytes": 759471,
+    "sha256": "e0c9fc1679d1fe77fab1f99ac7fdb9afebc5e279e81087bf1e7150c166d2e720"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7CE1A064913E3EE73454A6BFED4E83E3.jpg",
+    "path": "assets/表情包/7CE1A064913E3EE73454A6BFED4E83E3.jpg",
+    "format": "JPEG",
+    "bytes": 1289,
+    "sha256": "8d2b0d822bef1c4c714f02f77baeb261603c3b89b08b018364e84785882fa556"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7E3CB2248E058CEEE8B43D66F089EAC0.jpg",
+    "path": "assets/表情包/7E3CB2248E058CEEE8B43D66F089EAC0.jpg",
+    "format": "JPEG",
+    "bytes": 47815,
+    "sha256": "2f231e7699ce2ab5f9d9b448678229925e598842a1d860c0ebbbd5816766dab7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/7F881BFB7044D834AB70C08B3CFCC8F4.jpg",
+    "path": "assets/表情包/7F881BFB7044D834AB70C08B3CFCC8F4.jpg",
+    "format": "JPEG",
+    "bytes": 78636,
+    "sha256": "f6a0e1f153ea3e40b2103f6f4b1e94475925bfff886938f70615a6918b806beb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8096FE0E0F906CAE88CC61C7C2ABCD80.jpg",
+    "path": "assets/表情包/8096FE0E0F906CAE88CC61C7C2ABCD80.gif",
+    "format": "GIF",
+    "bytes": 53984,
+    "sha256": "22d98b87372f3a105d8ca49081eed90c6299024307873f8dee632d1d1b5eb5f4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/80DF570E98AEDFFD5172A1CCD414467D.jpg",
+    "path": "assets/表情包/80DF570E98AEDFFD5172A1CCD414467D.jpg",
+    "format": "JPEG",
+    "bytes": 23033,
+    "sha256": "1e5b50d5549d2203c7d0f439a3265a6f07e921f4460f7d29dbf1238edc6f8697"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/814543A380C42F988DDDCBABB5724AB3.jpg",
+    "path": "assets/表情包/814543A380C42F988DDDCBABB5724AB3.gif",
+    "format": "GIF",
+    "bytes": 28226,
+    "sha256": "4231c872b39c5af6447df09afdd913d7aee0ca443348ce4509d26c295b7c43a6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8225949E212A373BE64F3DB73BB761B5.jpg",
+    "path": "assets/表情包/8225949E212A373BE64F3DB73BB761B5.jpg",
+    "format": "JPEG",
+    "bytes": 25042,
+    "sha256": "d5748cea3c95c66192755fe4e9c31817696cbe4fa2be920b264c460fb18f80d8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/822C612249C1AA2591C833FF6EB683A0.jpg",
+    "path": "assets/表情包/822C612249C1AA2591C833FF6EB683A0.jpg",
+    "format": "JPEG",
+    "bytes": 16733,
+    "sha256": "2a2b6a23b29dcb2bf395057af47fcc4c4bc461e86e3de4318f3db1ccf71fa4df"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/83E2F9AE5B879BB5EA814CDDD7CD9D00.jpg",
+    "path": "assets/表情包/83E2F9AE5B879BB5EA814CDDD7CD9D00.jpg",
+    "format": "JPEG",
+    "bytes": 3821,
+    "sha256": "b06613314f22a2ddb4229c071fa0a4c5118719307564b61aa16379abdfbd6112"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/84B0950DC9C07487CCBF2984EA9F83B1.jpg",
+    "path": "assets/表情包/84B0950DC9C07487CCBF2984EA9F83B1.jpg",
+    "format": "JPEG",
+    "bytes": 7936,
+    "sha256": "0016d6830a596180466cbfca843ba912c38dedbbe9720972965bc92ddb368e71"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/872AC6D15527D84250FF425EC922616A.jpg",
+    "path": "assets/表情包/872AC6D15527D84250FF425EC922616A.jpg",
+    "format": "JPEG",
+    "bytes": 13103,
+    "sha256": "0bfc89ad17b8f4a7273214dd92194281b1101f66a395651bff0b675f27dc77ab"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/87B7D19104CBF20FBA10C16FC04837D2.jpg",
+    "path": "assets/表情包/87B7D19104CBF20FBA10C16FC04837D2.gif",
+    "format": "GIF",
+    "bytes": 1694028,
+    "sha256": "3e0502ac3f2e498f62640982e70e5b8f1c543fdf5dce2b1e0da11fc4fc812dfa"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8895C8BA83538E4B197B315FCCACB607.jpg",
+    "path": "assets/表情包/8895C8BA83538E4B197B315FCCACB607.gif",
+    "format": "GIF",
+    "bytes": 1370894,
+    "sha256": "fab43ba52ddca71d0438e093f061acfa4aa2c50cb68e88efd8c1a662de6329b0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/88F7B5525483D0C259C4260B40D601CB.jpg",
+    "path": "assets/表情包/88F7B5525483D0C259C4260B40D601CB.jpg",
+    "format": "JPEG",
+    "bytes": 200135,
+    "sha256": "6fb91364a3519fb8d25a82d118d07b9ab3e03adf93543edcbd45f7e871fb95b4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8B178D822EEF7746FB98CFF743317B2A.jpg",
+    "path": "assets/表情包/8B178D822EEF7746FB98CFF743317B2A.jpg",
+    "format": "JPEG",
+    "bytes": 22134,
+    "sha256": "7c8ff19f87df3cb542cab9ddaded7c530a020f0c056c7460546b83c6696485a0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8BA632C5022953A9F0BE4444D220E78D.jpg",
+    "path": "assets/表情包/8BA632C5022953A9F0BE4444D220E78D.jpg",
+    "format": "JPEG",
+    "bytes": 15850,
+    "sha256": "bdfb9f50f7e254c17167d0e3d3a919e9f0769ebeefb0256bfa73c3d94cd411ca"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8BB2BF348FA8D913659884877E83E8C5.jpg",
+    "path": "assets/表情包/8BB2BF348FA8D913659884877E83E8C5.jpg",
+    "format": "JPEG",
+    "bytes": 14910,
+    "sha256": "812441ce92d97d9569af304303e3a2fc52515bd8f8a47af43ac3cfcf4a61bf36"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8C837E6C61DED56325AF22A34EDB942B.jpg",
+    "path": "assets/表情包/8C837E6C61DED56325AF22A34EDB942B.jpg",
+    "format": "JPEG",
+    "bytes": 31834,
+    "sha256": "4e552ef9aa07210ad656baa7e67c12d62caea8f690ce202024a2bf64a80ccb94"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8DC42CC6EA15EF3DA29241D46CE1EA92.jpg",
+    "path": "assets/表情包/8DC42CC6EA15EF3DA29241D46CE1EA92.gif",
+    "format": "GIF",
+    "bytes": 1450270,
+    "sha256": "6f707d142d0efb0cbb82635b2458ef21ea504794c824922eee19338091332945"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8E0F0A9582C97CDB2F99DBAFCCC0D495.jpg",
+    "path": "assets/表情包/8E0F0A9582C97CDB2F99DBAFCCC0D495.gif",
+    "format": "GIF",
+    "bytes": 93844,
+    "sha256": "2b4a97821c6c14f8620e1c0c4cfec7970c71176b5aabbd72cdcbc625409e5609"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8E1FAA5AB387C2B2248558E55AC8EA89.jpg",
+    "path": "assets/表情包/8E1FAA5AB387C2B2248558E55AC8EA89.jpg",
+    "format": "JPEG",
+    "bytes": 10828,
+    "sha256": "3a02c8c80cfe5a41849edf3cf191598f11ba98fb134b3ecdeacaa3c47e6611cd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8E4B3787F5D516BAF9803BFE7C764303.jpg",
+    "path": "assets/表情包/8E4B3787F5D516BAF9803BFE7C764303.jpg",
+    "format": "JPEG",
+    "bytes": 9286,
+    "sha256": "60cfcb73a93f7c3ff5e1107f03769c237a2b50f98b63f172b181cc6090f8c143"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8EDCD57D8365D722469DD2DE2EE98ADE.jpg",
+    "path": "assets/表情包/8EDCD57D8365D722469DD2DE2EE98ADE.jpg",
+    "format": "JPEG",
+    "bytes": 81813,
+    "sha256": "a7719211b4fefcc7a93d37a55800307a90a9801f16dbd4a3e0cf6f427f77d481"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8F1D67977F447CE110C98EAAFFDF8159.jpg",
+    "path": "assets/表情包/8F1D67977F447CE110C98EAAFFDF8159.gif",
+    "format": "GIF",
+    "bytes": 24252,
+    "sha256": "82eeb49b5bf4fc3db0155751cf07898ccddbd0f2c2aa064aefeb8eea1f0c0f09"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/8F2057875B88943668995AA4D28CFC08.jpg",
+    "path": "assets/表情包/8F2057875B88943668995AA4D28CFC08.jpg",
+    "format": "JPEG",
+    "bytes": 2853,
+    "sha256": "ca69d55e19943697b50761bcc5f3df53f23df1eb197ea79ff964ac6ea8f8d05d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/901ABA071744984646706FCDDBF657BF.jpg",
+    "path": "assets/表情包/901ABA071744984646706FCDDBF657BF.jpg",
+    "format": "JPEG",
+    "bytes": 11962,
+    "sha256": "481568b2f30554235a1ccfff232f9bc2046f4ddf34acf75e8de623d1990536b8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/90A1BA39128B2161C24E50F49F6B1826.jpg",
+    "path": "assets/表情包/90A1BA39128B2161C24E50F49F6B1826.gif",
+    "format": "GIF",
+    "bytes": 1504593,
+    "sha256": "c0b8cd83464e35cd21446d39af48e302b851b6beca190d2b23230f6461404cd0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/90B19C9F08790E7826C8A637F83C5EA8.jpg",
+    "path": "assets/表情包/90B19C9F08790E7826C8A637F83C5EA8.gif",
+    "format": "GIF",
+    "bytes": 1408795,
+    "sha256": "d8350cdefd5f496090d5d2e7d5b70623ae893b58579e87fcaa6a927ffa7d688f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/90C1F3641D3EA9EEFB8DF6ED216C33D2.jpg",
+    "path": "assets/表情包/90C1F3641D3EA9EEFB8DF6ED216C33D2.jpg",
+    "format": "JPEG",
+    "bytes": 60764,
+    "sha256": "73677168462d7bc826af172a3684713b39a862ab54ed27f4afc80b43ef0d8515"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/92AFEA9134A233D46C27A0D8AE054678.jpg",
+    "path": "assets/表情包/92AFEA9134A233D46C27A0D8AE054678.jpg",
+    "format": "JPEG",
+    "bytes": 9717,
+    "sha256": "e8b37df6ac7e1d9d63669430fa6af5ea9c82280f5ce04eb3b21147ee7f6f085c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/92BAF105DA2AE67864EB0A5A1C88390F.jpg",
+    "path": "assets/表情包/92BAF105DA2AE67864EB0A5A1C88390F.gif",
+    "format": "GIF",
+    "bytes": 422352,
+    "sha256": "a9f07882279694add249320cbaac5caa718774d723e902252ebeb90b6601bff0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/930A7DF7118C1B54C86C9465BAB2DF3E.jpg",
+    "path": "assets/表情包/930A7DF7118C1B54C86C9465BAB2DF3E.jpg",
+    "format": "JPEG",
+    "bytes": 116516,
+    "sha256": "caf372ad88e8167622f23193e91e1332b03beab5ba00899b0d1af5e5820d40f9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/938D78AF6C4C3294D9955EAA0BA620C4.jpg",
+    "path": "assets/表情包/938D78AF6C4C3294D9955EAA0BA620C4.gif",
+    "format": "GIF",
+    "bytes": 1445227,
+    "sha256": "47ecce144ab62334ca302d28248d32843a6be2e8806800358257dfe2ea3d1a3a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/93B8E84E7D1CD3AB46A19A4548C291AB.jpg",
+    "path": "assets/表情包/93B8E84E7D1CD3AB46A19A4548C291AB.gif",
+    "format": "GIF",
+    "bytes": 603580,
+    "sha256": "5fcb7e556cf6d89cbc94e12809aaffd308711e090e44d02f8328a9366cf0bc1b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/93E5EEA513077CA4179E7D810A0F89EC.jpg",
+    "path": "assets/表情包/93E5EEA513077CA4179E7D810A0F89EC.gif",
+    "format": "GIF",
+    "bytes": 7472,
+    "sha256": "dae216b5a923332cca32bf6e07f5196c9c596f31d5707120bb5c837df9fd60d0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/94AC925F7859A28F7E9484290F0E6723.jpg",
+    "path": "assets/表情包/94AC925F7859A28F7E9484290F0E6723.jpg",
+    "format": "JPEG",
+    "bytes": 8577,
+    "sha256": "5e314bee7b0eec77bc3d8817bd89cddcb3736bb1377817a449474ea6f83d8e1f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/94BB5B686D64D4C2F53D0A5FDAD098E1.jpg",
+    "path": "assets/表情包/94BB5B686D64D4C2F53D0A5FDAD098E1.jpg",
+    "format": "JPEG",
+    "bytes": 18117,
+    "sha256": "bbf3dc16ca03c4f5b587bd198c0629f7f0f79cc2203efd227ab354881cb518cc"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/94DF4AC6233BDC171EC4572757054218.jpg",
+    "path": "assets/表情包/94DF4AC6233BDC171EC4572757054218.jpg",
+    "format": "JPEG",
+    "bytes": 27409,
+    "sha256": "e0c7a436f41911e688eaa869a088878ae75dfcd92187a8fe2e8c95f9a43cb492"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9521C1816CAA758908E622EF340DCD76.jpg",
+    "path": "assets/表情包/9521C1816CAA758908E622EF340DCD76.jpg",
+    "format": "JPEG",
+    "bytes": 72322,
+    "sha256": "8e82d9273d03c4c7aa028ae9896dc8982456500e569138ecbdbbe86e1b8edc3a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/959B2168D56C4E4C5BE41C120C17898D.jpg",
+    "path": "assets/表情包/959B2168D56C4E4C5BE41C120C17898D.gif",
+    "format": "GIF",
+    "bytes": 597189,
+    "sha256": "0d704611794efa7be488690e269df287d3593093ca802a51dac1ff0bc1f41c3a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/962EA93C38E26BC8562B6B106483F68A.jpg",
+    "path": "assets/表情包/962EA93C38E26BC8562B6B106483F68A.jpg",
+    "format": "JPEG",
+    "bytes": 11987,
+    "sha256": "22c3e44052693f49e9e4755acb98d969318dee73a5a468c9d3a23ae34d7b45af"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/97D9A32B7FA17D12165D0FDAB831EACF.jpg",
+    "path": "assets/表情包/97D9A32B7FA17D12165D0FDAB831EACF.gif",
+    "format": "GIF",
+    "bytes": 1560316,
+    "sha256": "b4d44d60a1d5dc1aa2968c6ebe8e56f276b8334c466962ad3a2b6396bbd8a7b6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/98279EBBD7DEB75D29286562619156DA.jpg",
+    "path": "assets/表情包/98279EBBD7DEB75D29286562619156DA.gif",
+    "format": "GIF",
+    "bytes": 25264,
+    "sha256": "6148218fb58a31ea80187453c0537f9fe5dfd606ace2e91a2fabadb69e76c1d4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/983E894940DD175C523272185A11EB2C.jpg",
+    "path": "assets/表情包/983E894940DD175C523272185A11EB2C.gif",
+    "format": "GIF",
+    "bytes": 19002,
+    "sha256": "72cdd5ce1b17c23d976445aa336d463a520b9d9c610c513941bc9927373d45d6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/990F5F8CEC546CEEF25317D6AB18E642.jpg",
+    "path": "assets/表情包/990F5F8CEC546CEEF25317D6AB18E642.jpg",
+    "format": "JPEG",
+    "bytes": 79496,
+    "sha256": "2a10486569ad6bfb5090a8fae7cb98316593829ba0378b32f38355323a990d8e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9930A765E04F25E6D845687452D76B98.jpg",
+    "path": "assets/表情包/9930A765E04F25E6D845687452D76B98.jpg",
+    "format": "JPEG",
+    "bytes": 79969,
+    "sha256": "90458879d899ed56ac7d90cfcef253ebe054256c30a69d9de48fe2462b436e5f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/99668D5385891968D76F56E3853513EF.jpg",
+    "path": "assets/表情包/99668D5385891968D76F56E3853513EF.gif",
+    "format": "GIF",
+    "bytes": 1151051,
+    "sha256": "c2778629acb46cd0310b40c58826d7f4e728631ef0e4ba73692426caf3c7fdf1"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/99677C9A07C79D4E6CD54C510378819C.jpg",
+    "path": "assets/表情包/99677C9A07C79D4E6CD54C510378819C.jpg",
+    "format": "JPEG",
+    "bytes": 39951,
+    "sha256": "f46784185c4b88e2b2de845a7c6f2dc987b2e0900410ea8e54c8ec42356a46ef"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/99C118FFCE1EB56D48C3CEE6CEC910F2.jpg",
+    "path": "assets/表情包/99C118FFCE1EB56D48C3CEE6CEC910F2.gif",
+    "format": "GIF",
+    "bytes": 1330199,
+    "sha256": "6d32212a3c948a7f6310199ccbfd24ac2041d83716567fe6443b3a6ede224f68"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/99D416D3ACD8A32712B379921ECBE465.jpg",
+    "path": "assets/表情包/99D416D3ACD8A32712B379921ECBE465.jpg",
+    "format": "JPEG",
+    "bytes": 5725,
+    "sha256": "e4ca3c62e149b5269de46dfdd1198236dcff7c50b2d878167c983c57b2b224af"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/99E055D74F1C05740E4018FA91B481FA.jpg",
+    "path": "assets/表情包/99E055D74F1C05740E4018FA91B481FA.jpg",
+    "format": "JPEG",
+    "bytes": 4022,
+    "sha256": "fb759f98c22849007dbe6f82eb81cd43083e5db66ce150052f6b71ca7f6dde34"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9A23FA0D2607F191FCEC406F56DE1266.jpg",
+    "path": "assets/表情包/9A23FA0D2607F191FCEC406F56DE1266.jpg",
+    "format": "JPEG",
+    "bytes": 80893,
+    "sha256": "f2fd532e785797c9d3a6012b3319a439778570b7842ea5f2b2b2254cb9a77ffd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9A7FE08B5D3E2C3FE2C5752597F4F4DD.jpg",
+    "path": "assets/表情包/9A7FE08B5D3E2C3FE2C5752597F4F4DD.jpg",
+    "format": "JPEG",
+    "bytes": 896,
+    "sha256": "dba58a74db79a71010e27d4fde1ae1c6d626158c9921d4befdf0d39e93eb8f75"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9B942EAD081066543163CC91D5573658.jpg",
+    "path": "assets/表情包/9B942EAD081066543163CC91D5573658.png",
+    "format": "PNG",
+    "bytes": 8042,
+    "sha256": "13d3b60a421c56d72a60152c88155e9d6be6f7b283ecb2e88c30ab69e2f16d03"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9CAE0ED9E1BAEACC29CBE1B96CB59ABA.jpg",
+    "path": "assets/表情包/9CAE0ED9E1BAEACC29CBE1B96CB59ABA.jpg",
+    "format": "JPEG",
+    "bytes": 7704,
+    "sha256": "c8921b74103add51b0fa30ecc6e98c3f359643cd8eca273c6db6f2552b6cf5b6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9CB829A4ECADDC7CE9D5E6DF5CDA2479.jpg",
+    "path": "assets/表情包/9CB829A4ECADDC7CE9D5E6DF5CDA2479.gif",
+    "format": "GIF",
+    "bytes": 1229895,
+    "sha256": "05ff5dc5830eb97937ab4fe14db1ef5146b261c0b477751492789290f5c9c7b2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9CFD83BFBBF91C45FB7BA73FCEB50AE7.jpg",
+    "path": "assets/表情包/9CFD83BFBBF91C45FB7BA73FCEB50AE7.gif",
+    "format": "GIF",
+    "bytes": 4871233,
+    "sha256": "6251853665ad997fbb6967a45e20048712e064c961d05b5f4cdc5878256b7a5c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9DF757A310E32925F830C6607E1659F6.jpg",
+    "path": "assets/表情包/9DF757A310E32925F830C6607E1659F6.jpg",
+    "format": "JPEG",
+    "bytes": 32879,
+    "sha256": "fa1ce5b70e29613e8e5e9cdb2d91a2eee8d32b2a21862266db04cf813d42761b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9E090AB46C8559AD21E6F15E42DA9020.jpg",
+    "path": "assets/表情包/9E090AB46C8559AD21E6F15E42DA9020.gif",
+    "format": "GIF",
+    "bytes": 702992,
+    "sha256": "682f26548275d4d02769c3ddd8f8ded0afd4065e5d8df6adc9a21410372c1aed"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9F2FFEEFDA81A1841F40ADB3F225958E.jpg",
+    "path": "assets/表情包/9F2FFEEFDA81A1841F40ADB3F225958E.gif",
+    "format": "GIF",
+    "bytes": 62182,
+    "sha256": "e0fd6e9a768f22ee78382a1306cec42aa193a76a5dd3c7c959fdf816741fad90"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9F41905F9FD26C230FDC6A260B27D0AD.jpg",
+    "path": "assets/表情包/9F41905F9FD26C230FDC6A260B27D0AD.jpg",
+    "format": "JPEG",
+    "bytes": 16750,
+    "sha256": "668c014e14748c07ed121cee14c4162f315bc6cb05c535766f063baf4897260e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/9F43A904A1094FDF78F3773AC7FDDD2C.jpg",
+    "path": "assets/表情包/9F43A904A1094FDF78F3773AC7FDDD2C.jpg",
+    "format": "JPEG",
+    "bytes": 13409,
+    "sha256": "5b90c2b33f8d7c92492aef489faa462e02aec1ae502be0c17115131d8fb273c0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A06E4E10C5CE874697A7C9C15562F7C6.jpg",
+    "path": "assets/表情包/A06E4E10C5CE874697A7C9C15562F7C6.jpg",
+    "format": "JPEG",
+    "bytes": 1775,
+    "sha256": "5d78533d3203799554b09b5b2626d300453cca58eb30f3b06720819ce9844512"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A25BE694C7218655733A5BBA34CEB827.jpg",
+    "path": "assets/表情包/A25BE694C7218655733A5BBA34CEB827.jpg",
+    "format": "JPEG",
+    "bytes": 151651,
+    "sha256": "5090f037b23abd41d9b5d150da8f9422c630d1e1b6fb6d76bbead43826f05614"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A2CD94F84AF3C8A63C0D3E5D63B88BCF.jpg",
+    "path": "assets/表情包/A2CD94F84AF3C8A63C0D3E5D63B88BCF.jpg",
+    "format": "JPEG",
+    "bytes": 101588,
+    "sha256": "9c45d57d51bd3acb6580d94f0b79821d0d0b45b5111dccb8248eca060cbeeaab"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A343A2C458C25EEC8B98F19EC5480021.jpg",
+    "path": "assets/表情包/A343A2C458C25EEC8B98F19EC5480021.gif",
+    "format": "GIF",
+    "bytes": 1673376,
+    "sha256": "eab485f3e5a5e34bc18ba79cd23546ba7b3e21813903f5c1ccb1659a0ff97747"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A3451095DBA10AA2B187A63E0A84D4A9.jpg",
+    "path": "assets/表情包/A3451095DBA10AA2B187A63E0A84D4A9.jpg",
+    "format": "JPEG",
+    "bytes": 45970,
+    "sha256": "9539ada749a257cbe98b781cab20951989861ad784866a0ef8d86096e40bda00"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A4341AC44F628771BAB9DA5013261240.jpg",
+    "path": "assets/表情包/A4341AC44F628771BAB9DA5013261240.jpg",
+    "format": "JPEG",
+    "bytes": 143852,
+    "sha256": "ede186e3914e4fbb86685da0ac3d6266673472baa3123745cff7865a6ae3eaac"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A4A9C2BA9964A12AB2B3A4BB0C6A8FA9.jpg",
+    "path": "assets/表情包/A4A9C2BA9964A12AB2B3A4BB0C6A8FA9.jpg",
+    "format": "JPEG",
+    "bytes": 66161,
+    "sha256": "6f99cecf1316f159f1b95de729a7de10670a2701ff4d6a6aff3accd32b6a3899"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A4FBA338E25E8F0B8B439EDCDAAE6CB0.jpg",
+    "path": "assets/表情包/A4FBA338E25E8F0B8B439EDCDAAE6CB0.gif",
+    "format": "GIF",
+    "bytes": 1515981,
+    "sha256": "3a5a2c8e9a39eef88d0a734d2e96ac9f70c592ffb7e23d9c1c1c0582f2010d66"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A5AEFDACA18F15CE9F7C61B982B83704.jpg",
+    "path": "assets/表情包/A5AEFDACA18F15CE9F7C61B982B83704.jpg",
+    "format": "JPEG",
+    "bytes": 83048,
+    "sha256": "d96b910746c9f2046f4b909cbf2644353c1dc1d36f9e0238b33677de3594b270"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A5ED91BC75A48B3E7637E661AD30938C.jpg",
+    "path": "assets/表情包/A5ED91BC75A48B3E7637E661AD30938C.gif",
+    "format": "GIF",
+    "bytes": 756817,
+    "sha256": "9693148ab9d886f02120fb78f6b79870e997a272137d931fb541ffb36c0d5630"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A63BA729F64AD1E58F608D85C4CE7A20.jpg",
+    "path": "assets/表情包/A63BA729F64AD1E58F608D85C4CE7A20.gif",
+    "format": "GIF",
+    "bytes": 195681,
+    "sha256": "8ada6262012fa482b46d4d5dd0597f4b43c148d4ee87c7893165c98ceba1cdd3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A6A41AF0D537C1CC6AFDA155BC49E12E.jpg",
+    "path": "assets/表情包/A6A41AF0D537C1CC6AFDA155BC49E12E.jpg",
+    "format": "JPEG",
+    "bytes": 17146,
+    "sha256": "ee23d9d1f068c7965bc03ed7f47182eb1876ea0db267995eaa0647ecb8ee2c2e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A6C4496E2E3FF1347EF7C202B8923703.jpg",
+    "path": "assets/表情包/A6C4496E2E3FF1347EF7C202B8923703.jpg",
+    "format": "JPEG",
+    "bytes": 2994,
+    "sha256": "da540710d05060a192a20712508a4a753c0188c9228cb3f322b3f29194765175"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A73DAB0F5A76BDA84292C2347D7C5039.jpg",
+    "path": "assets/表情包/A73DAB0F5A76BDA84292C2347D7C5039.jpg",
+    "format": "JPEG",
+    "bytes": 13694,
+    "sha256": "6616140a8d049a553770e6e09754c761c196575d5fcda8fa9e44077f6c3b6f4c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A7C9A191476499501A1AA5522D1125B2.jpg",
+    "path": "assets/表情包/A7C9A191476499501A1AA5522D1125B2.png",
+    "format": "PNG",
+    "bytes": 2256,
+    "sha256": "b441339989e1661401f8109404b0b1ef1ed78d2ce1cccc17f737b875b4be1c26"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A7D6880C5C7D391FC4938A8242C7B0E2.jpg",
+    "path": "assets/表情包/A7D6880C5C7D391FC4938A8242C7B0E2.gif",
+    "format": "GIF",
+    "bytes": 242421,
+    "sha256": "92181bb2c02bb661bd21d113dca6530397de725b68468d0bde2db1c1ecaed46d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A994B401BE1407C2AA3AB8BF6E7F2141.jpg",
+    "path": "assets/表情包/A994B401BE1407C2AA3AB8BF6E7F2141.jpg",
+    "format": "JPEG",
+    "bytes": 6874,
+    "sha256": "b6048928be44dad7ece57034c7ce057354ddc5af6a5a82edc3a72855de58b1a5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A9F1646335E072EFECA1266F3DB8F540.jpg",
+    "path": "assets/表情包/A9F1646335E072EFECA1266F3DB8F540.jpg",
+    "format": "JPEG",
+    "bytes": 13217,
+    "sha256": "ab5293411e3acb60f1a07817f94bed876eb0ac9fe80167458937d444019460d4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/A9F3C19A540177EA00370DF437F26843.jpg",
+    "path": "assets/表情包/A9F3C19A540177EA00370DF437F26843.jpg",
+    "format": "JPEG",
+    "bytes": 38100,
+    "sha256": "88090c74398368bda19dafe9338f0b9f9cf8890cb8df8e11e492025f8e7e12aa"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AA83161A468427398386ED4A0E1F3DBE.jpg",
+    "path": "assets/表情包/AA83161A468427398386ED4A0E1F3DBE.jpg",
+    "format": "JPEG",
+    "bytes": 115662,
+    "sha256": "17b08ed18964bea0491bad98875e3445e996dd2bed38265b354db6ab340d2690"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/ABFC8752FA90816C85F4E641B922DDF7.jpg",
+    "path": "assets/表情包/ABFC8752FA90816C85F4E641B922DDF7.gif",
+    "format": "GIF",
+    "bytes": 1758702,
+    "sha256": "ce14ec30348874336cfdf781795f4afe9bc74493afb144e6aa62d49a9ecbbbf4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AC7158161999B1C991C6B6B0A064C576.jpg",
+    "path": "assets/表情包/AC7158161999B1C991C6B6B0A064C576.jpg",
+    "format": "JPEG",
+    "bytes": 31455,
+    "sha256": "d17e76543c645c698af7eade8423c3aa72a928b184fe9b6e8f8f3c237c514868"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/ACECCC530E0A4644832E9B622DD6F044.jpg",
+    "path": "assets/表情包/ACECCC530E0A4644832E9B622DD6F044.jpg",
+    "format": "JPEG",
+    "bytes": 13881,
+    "sha256": "3f23d42b4dcb71d719a2408e74f0d3a9e3008b3c817b0ab5cd38fc5d877afeb6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/ACFB2621EAABC3BFCC3B1E9B3E6CBA96.jpg",
+    "path": "assets/表情包/ACFB2621EAABC3BFCC3B1E9B3E6CBA96.jpg",
+    "format": "JPEG",
+    "bytes": 63106,
+    "sha256": "9f4e19aca7c69c1af3eeeb6e16074ee960bd5482200613a563b1799531e858ca"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AD1FA3C0D3E285DAC1BDCB9A6ED33F12.jpg",
+    "path": "assets/表情包/AD1FA3C0D3E285DAC1BDCB9A6ED33F12.gif",
+    "format": "GIF",
+    "bytes": 113169,
+    "sha256": "0baefea5632e3f1ecd9d2541560c9327218d0b4b90e79e4f4eb8f565c867df24"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AE1600B4D2E922806482569197EA0780.jpg",
+    "path": "assets/表情包/AE1600B4D2E922806482569197EA0780.gif",
+    "format": "GIF",
+    "bytes": 909592,
+    "sha256": "254a4c98a192030cce51aa56a565e1767ef96859d5aff7715e2ef393e9913523"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AE4DD161FA65619F7227B721E9A62087.jpg",
+    "path": "assets/表情包/AE4DD161FA65619F7227B721E9A62087.gif",
+    "format": "GIF",
+    "bytes": 1188794,
+    "sha256": "4d06efb391c8cf69c947ea8661bd2b28602fc7afbae9bc8600cebc38468a0d9a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AE56D411D5FB29BBAA23FCBDA1957B85.jpg",
+    "path": "assets/表情包/AE56D411D5FB29BBAA23FCBDA1957B85.gif",
+    "format": "GIF",
+    "bytes": 163970,
+    "sha256": "e2a35d4126bc3dc088b793a88007bcbd8c4109ae6b5c41e2494b1405ec58e1bd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AEC45152A17B6A16C87BBCD405E2D6EA.jpg",
+    "path": "assets/表情包/AEC45152A17B6A16C87BBCD405E2D6EA.gif",
+    "format": "GIF",
+    "bytes": 1939634,
+    "sha256": "e25e6ad8800c63304ab21ad6a8a8c1d744908d1b870bec5e7a0354b653621614"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AEE1FE57F7A64BE1BC38AFFBC8DBB5BF.jpg",
+    "path": "assets/表情包/AEE1FE57F7A64BE1BC38AFFBC8DBB5BF.jpg",
+    "format": "JPEG",
+    "bytes": 76990,
+    "sha256": "920b18d49e87c6b50dcc41691d95ac0b4aa7d4d7ccce63999f0ba25b3509b2a6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AF01182952E9FD6FE5B386D64D21423C.jpg",
+    "path": "assets/表情包/AF01182952E9FD6FE5B386D64D21423C.jpg",
+    "format": "JPEG",
+    "bytes": 20376,
+    "sha256": "38d3e1833d85457dd58bcb844c5ef504967ae6909c98ef05e8a1b0b821ad7a6e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AF9D629BFA35777245A11C8FF16D0A23.jpg",
+    "path": "assets/表情包/AF9D629BFA35777245A11C8FF16D0A23.jpg",
+    "format": "JPEG",
+    "bytes": 875,
+    "sha256": "3f3ff1b6770cee22c7e106f2d80d229b5dc12797bef51ea34f7d603bb70dc9d7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AFB3B8EC4301C29F36AD6B26152AE68D.jpg",
+    "path": "assets/表情包/AFB3B8EC4301C29F36AD6B26152AE68D.jpg",
+    "format": "JPEG",
+    "bytes": 82293,
+    "sha256": "899a98917d8c3282c42f0e45af7f00fa9080952a3e20906233996ab2eeb63951"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AFB74B52D51B1B425C8B01A832CA9352.jpg",
+    "path": "assets/表情包/AFB74B52D51B1B425C8B01A832CA9352.gif",
+    "format": "GIF",
+    "bytes": 1074062,
+    "sha256": "0f963f467e563c717a07e558fbae2effe01b05243f5b306dffc51d1eb7afc486"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AFD66EE319D691A711FF9557D0E4ED69.jpg",
+    "path": "assets/表情包/AFD66EE319D691A711FF9557D0E4ED69.jpg",
+    "format": "JPEG",
+    "bytes": 60168,
+    "sha256": "5c2eb418da7ecf7ecd4323dfbda3918d78e0bd28e7312bfd4f9b7db662bf53bc"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/AFEF9B8A4F96D18437D9DF1A1A29E63D.jpg",
+    "path": "assets/表情包/AFEF9B8A4F96D18437D9DF1A1A29E63D.gif",
+    "format": "GIF",
+    "bytes": 5075539,
+    "sha256": "d981047954113535af29c3ab3f61662859b486c77a01aa564f3ae99e7d682ed6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B07C1B855E39F2143383DCA2AF2FE191.jpg",
+    "path": "assets/表情包/B07C1B855E39F2143383DCA2AF2FE191.jpg",
+    "format": "JPEG",
+    "bytes": 43556,
+    "sha256": "767a430648f6a2c9e20d36cdbfc3c7a38296e6623814870879b0d3407c7a2be3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B0B114D95A99446E347EB6899C706B7A.jpg",
+    "path": "assets/表情包/B0B114D95A99446E347EB6899C706B7A.jpg",
+    "format": "JPEG",
+    "bytes": 31171,
+    "sha256": "021a9b4b5bba75a694d43a366ff20d9418759b15f582c88b9d23e5e3cdc65192"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B120A2CB46E667AB364E44F66A4185C7.jpg",
+    "path": "assets/表情包/B120A2CB46E667AB364E44F66A4185C7.jpg",
+    "format": "JPEG",
+    "bytes": 12750,
+    "sha256": "f30b2598bc2e9219b4cf3968efa061c4a413b846c333c47a6211b8dcffd41433"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B123D1AA56978CE22F578F19F08354FD.jpg",
+    "path": "assets/表情包/B123D1AA56978CE22F578F19F08354FD.gif",
+    "format": "GIF",
+    "bytes": 1860724,
+    "sha256": "232dbc8d7fa94daafc855694940ba8be94ec4b549c87041bb5ad8be94b671f66"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B1F900A3E10B9B580EC44B38374A3332.jpg",
+    "path": "assets/表情包/B1F900A3E10B9B580EC44B38374A3332.gif",
+    "format": "GIF",
+    "bytes": 89504,
+    "sha256": "33a2b4db3ac1873b95c98274f63a38f1502eb86badd85149618384781c883566"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B268E525A340341339AF2E09E6469696.jpg",
+    "path": "assets/表情包/B268E525A340341339AF2E09E6469696.gif",
+    "format": "GIF",
+    "bytes": 813784,
+    "sha256": "afce14d00a6e14a2f9ecd1a067cfcd3aa583fc9f004b76a36c6eb164788b3073"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B3CD2B29EB80D867AC213A47D866CB29.jpg",
+    "path": "assets/表情包/B3CD2B29EB80D867AC213A47D866CB29.jpg",
+    "format": "JPEG",
+    "bytes": 23245,
+    "sha256": "701a51513c6f768d6d45007d4160b1e6a4217eba6ff5623c097d33bad4743374"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B3E471013986896074D3C824A3D57F81.jpg",
+    "path": "assets/表情包/B3E471013986896074D3C824A3D57F81.jpg",
+    "format": "JPEG",
+    "bytes": 36904,
+    "sha256": "38543bddbfa0e7cd5acce4dbec556754fd9153847cfffcf34e4976df6d1a561b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B4C3B74ACBBF1D30E6E469832699F6E9.jpg",
+    "path": "assets/表情包/B4C3B74ACBBF1D30E6E469832699F6E9.gif",
+    "format": "GIF",
+    "bytes": 925401,
+    "sha256": "a3c4ed790ee2473210a145d316ea6377f02353215fd4c2b9c4333ca489e8db51"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B4CD864052951E22B86B44CE560C8664.jpg",
+    "path": "assets/表情包/B4CD864052951E22B86B44CE560C8664.jpg",
+    "format": "JPEG",
+    "bytes": 167782,
+    "sha256": "cfe0eedc7e3839e813f1ca7f3ada1a7a1fc5b2aafa11e577e5bf5ae8ed14f2d2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B4DA98E08CC40A966B890096A09C53D8.jpg",
+    "path": "assets/表情包/B4DA98E08CC40A966B890096A09C53D8.jpg",
+    "format": "JPEG",
+    "bytes": 94880,
+    "sha256": "66c33de9979b18d76b9533620e4350f2f299e1e869c1d68ba4ff09a6cc63e2a1"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B5A133F99392EF5F2B3D5466EA584C70.jpg",
+    "path": "assets/表情包/B5A133F99392EF5F2B3D5466EA584C70.jpg",
+    "format": "JPEG",
+    "bytes": 75333,
+    "sha256": "09f354c2b9386d5bbb20ceddb6e644f433bf9dd5f48d84607db42da429211169"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B5B65854C341D8899720B0CC199860E2.jpg",
+    "path": "assets/表情包/B5B65854C341D8899720B0CC199860E2.gif",
+    "format": "GIF",
+    "bytes": 52,
+    "sha256": "5a90fb21fec7ad265d148dd6867ac610bdbfd2d2f8cfd5105453840407bcf428"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B616022E74583CE51588595829135476.jpg",
+    "path": "assets/表情包/B616022E74583CE51588595829135476.jpg",
+    "format": "JPEG",
+    "bytes": 125123,
+    "sha256": "bd8f15a82bae10e423248a10df8789107752f859a836f31fb5c7635ef98109e1"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B62A45954A166E50F4B80B6A295F1B83.jpg",
+    "path": "assets/表情包/B62A45954A166E50F4B80B6A295F1B83.jpg",
+    "format": "JPEG",
+    "bytes": 44140,
+    "sha256": "5920670a2248dd525aebdc53c39dff9afd7c827001db1f2c2e959a52d0e13ef7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B69E88B5B1AA0F938643A21C91557926.jpg",
+    "path": "assets/表情包/B69E88B5B1AA0F938643A21C91557926.jpg",
+    "format": "JPEG",
+    "bytes": 41526,
+    "sha256": "e322ad6ebb955eb443de055ed9e99a2d94501d21a58d0a2d4c8de01e13addb43"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B741576223302AEE4BC06182E61FD030.jpg",
+    "path": "assets/表情包/B741576223302AEE4BC06182E61FD030.jpg",
+    "format": "JPEG",
+    "bytes": 3511,
+    "sha256": "f07d8ce694dd45927429c4d97aca7718dfe41f09b3b62d83b8d09506bfa7a084"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B768E1A85ABFBAFE530BCB3A85DC69F2.jpg",
+    "path": "assets/表情包/B768E1A85ABFBAFE530BCB3A85DC69F2.jpg",
+    "format": "JPEG",
+    "bytes": 64130,
+    "sha256": "c1b30cf1c65135dbb24c99ad8e3498b0ad4608166adfef09e239afc2ccfe8a3a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B772570319443326597BD43A8DCCBDE2.jpg",
+    "path": "assets/表情包/B772570319443326597BD43A8DCCBDE2.jpg",
+    "format": "JPEG",
+    "bytes": 18514,
+    "sha256": "fb98bedd19647608d0f28e4075450ecd8d2968173904bcd12b1cef91781a6ba9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/B7731B66E7D667AF9F669B08F8E72075.jpg",
+    "path": "assets/表情包/B7731B66E7D667AF9F669B08F8E72075.jpg",
+    "format": "JPEG",
+    "bytes": 9120,
+    "sha256": "07144aa26d084da80e4b8f17ebbd4b47cc7bcc233f12675f8c1522d4995aa7fb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BA7F59442FF75E01C6C05A939860E541.jpg",
+    "path": "assets/表情包/BA7F59442FF75E01C6C05A939860E541.jpg",
+    "format": "JPEG",
+    "bytes": 63413,
+    "sha256": "4c4986bd0a7883137862a06f71f636c0896e33fa64296b3a82d959d95cfc792f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BAD90985B66B0AC51B714EC881AD943F.jpg",
+    "path": "assets/表情包/BAD90985B66B0AC51B714EC881AD943F.jpg",
+    "format": "JPEG",
+    "bytes": 7608,
+    "sha256": "3629c87d5977ecafd6d80cb7097818101bfa675731e95ed233483d2133b2494c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BADEDA3708EE372269434AA82F5B024D.jpg",
+    "path": "assets/表情包/BADEDA3708EE372269434AA82F5B024D.jpg",
+    "format": "JPEG",
+    "bytes": 57143,
+    "sha256": "59ba13f5d99760cea49a638d659993307f32c304e0e7ee1679de248aa0017af4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BB4882712D03CAD5BA739CAE6C04AB94.jpg",
+    "path": "assets/表情包/BB4882712D03CAD5BA739CAE6C04AB94.gif",
+    "format": "GIF",
+    "bytes": 599262,
+    "sha256": "3c62cffabfa18a3fdc85d2ab30b2904992b0d9a5916ba3b18a5163726b6a5576"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BB7AC92C5D82D0AFF7112E35B6750B60.jpg",
+    "path": "assets/表情包/BB7AC92C5D82D0AFF7112E35B6750B60.jpg",
+    "format": "JPEG",
+    "bytes": 32721,
+    "sha256": "1bed1060db1462c03adcfe31e68f56e7977748ec848ded3a41d616b1272f7a1f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BC2C89F09FCEC4F841F58E5E0AE0E6E0.jpg",
+    "path": "assets/表情包/BC2C89F09FCEC4F841F58E5E0AE0E6E0.gif",
+    "format": "GIF",
+    "bytes": 420114,
+    "sha256": "ddeb385c29ba8c1dfdbb762e086e9181f0a9c6fcb9f74bae6c5efcc4132d5669"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BC2CD9379192656A21F3FD88829995E1.jpg",
+    "path": "assets/表情包/BC2CD9379192656A21F3FD88829995E1.jpg",
+    "format": "JPEG",
+    "bytes": 3902,
+    "sha256": "10ec752aa72e250d6a4ba72166355487aff86a56c42b997675907eaac8b5e663"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BC9ABE1A3653A48732B4E56B2803BA63.jpg",
+    "path": "assets/表情包/BC9ABE1A3653A48732B4E56B2803BA63.jpg",
+    "format": "JPEG",
+    "bytes": 14013,
+    "sha256": "f84cc2810cd295a952755a7f5173ecf2e0ff05cfc9d7e9cf99df09105b246e48"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BCEC70D96E73725933BBD17EF0527996.jpg",
+    "path": "assets/表情包/BCEC70D96E73725933BBD17EF0527996.jpg",
+    "format": "JPEG",
+    "bytes": 13020,
+    "sha256": "c65159df1c7624dabf2e1c377e632419bfec82a5ddb93d772e69d1ec7e778157"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BD77FC157DBB8D2A407C0E31E8C8D1BB.jpg",
+    "path": "assets/表情包/BD77FC157DBB8D2A407C0E31E8C8D1BB.gif",
+    "format": "GIF",
+    "bytes": 33876,
+    "sha256": "9f74f66cf00b9a183f3576dc8ad9033c6f3460dd6d832d9955273aabac74b1af"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BE2A8952CACAB711914CE86249E6BCE5.jpg",
+    "path": "assets/表情包/BE2A8952CACAB711914CE86249E6BCE5.jpg",
+    "format": "JPEG",
+    "bytes": 201072,
+    "sha256": "ee16aedfb75e564bc914e332f3019b2508fc7823ecda5f14d3f26b4080dc2606"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BE679B430AD2CC714E22CCDDF65B733C.jpg",
+    "path": "assets/表情包/BE679B430AD2CC714E22CCDDF65B733C.gif",
+    "format": "GIF",
+    "bytes": 1498122,
+    "sha256": "e73a953e4e68f844b9790cc25d661c8af8e1bea80d4975c6e959c583daf3b29c"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BE7AAD3CB9F1C7795971D783E918E5E1.jpg",
+    "path": "assets/表情包/BE7AAD3CB9F1C7795971D783E918E5E1.jpg",
+    "format": "JPEG",
+    "bytes": 52086,
+    "sha256": "0114aaec21c7814ca246ad104b8d46d9a0b0b17a2463d060d4d8b2b75f1a0850"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BEF4F6C06C6E5C7A94D557D952686F08.jpg",
+    "path": "assets/表情包/BEF4F6C06C6E5C7A94D557D952686F08.jpg",
+    "format": "JPEG",
+    "bytes": 124193,
+    "sha256": "0983bcdcde46809bf81989820bba22538fa262caa5565b47c9dcf5d32ad23c21"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/BFE537577D898DF86D21E21FCD70C5B1.jpg",
+    "path": "assets/表情包/BFE537577D898DF86D21E21FCD70C5B1.jpg",
+    "format": "JPEG",
+    "bytes": 58582,
+    "sha256": "429b32647866c09e8162afd6a04dc54c67f87cd0905a91d4e147366c33343c5d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C08AC4AE821B1B506C77C78C312EE06B.jpg",
+    "path": "assets/表情包/C08AC4AE821B1B506C77C78C312EE06B.jpg",
+    "format": "JPEG",
+    "bytes": 22620,
+    "sha256": "fabe127ddddcfd5de1f8012d524f27020e6b7b35250207d10b9c4234bad8b035"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C13E0F990CC8763AAA8FF5C6621854EA.jpg",
+    "path": "assets/表情包/C13E0F990CC8763AAA8FF5C6621854EA.jpg",
+    "format": "JPEG",
+    "bytes": 1530,
+    "sha256": "8f3ddbc1fcc7638c3ada72d25da6bc0d97432971213c78b0ae10e8fe23c3a990"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C317523EB78792CC5AE27FAB4C5348F4.jpg",
+    "path": "assets/表情包/C317523EB78792CC5AE27FAB4C5348F4.gif",
+    "format": "GIF",
+    "bytes": 6892,
+    "sha256": "7cf48529224a1ee725301e4237d3df5491b2fe0da50efdc871584e6b013f4bd8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C39513B717DA01C3A38C4988DC40FFED.jpg",
+    "path": "assets/表情包/C39513B717DA01C3A38C4988DC40FFED.jpg",
+    "format": "JPEG",
+    "bytes": 139614,
+    "sha256": "6c70a22a324a2c6086e4c3013dd79db10f97eb4fdbd278af0d411b7dde3a1083"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C3B81C7AD3017D3141D04A2D289CFF65.jpg",
+    "path": "assets/表情包/C3B81C7AD3017D3141D04A2D289CFF65.jpg",
+    "format": "JPEG",
+    "bytes": 108777,
+    "sha256": "3f7295fd45dc582509f872867f68ce30a980757985e89bfe5fbca31932257cf6"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C3C92630E9BF533598B387391E69660C.jpg",
+    "path": "assets/表情包/C3C92630E9BF533598B387391E69660C.jpg",
+    "format": "JPEG",
+    "bytes": 1032,
+    "sha256": "8b65f441b56596271b28fb5b49209d689342fd0e76d9814043be3273a620cd5b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C3E8DDA6558B01074F0704908F41D2F9.jpg",
+    "path": "assets/表情包/C3E8DDA6558B01074F0704908F41D2F9.png",
+    "format": "PNG",
+    "bytes": 54967,
+    "sha256": "34c0188d8440f4273152b4d403de4214d159d560ae348dfef7ecad13489944ad"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C43183936DACCB36755452E0FC80497C.jpg",
+    "path": "assets/表情包/C43183936DACCB36755452E0FC80497C.gif",
+    "format": "GIF",
+    "bytes": 1981504,
+    "sha256": "4fa4f8b4d134bddcbd7b78685e08688c2576b810e243c0565a0231523a9ddad3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C556F99848B23A64AC526B1A3985DD21.jpg",
+    "path": "assets/表情包/C556F99848B23A64AC526B1A3985DD21.jpg",
+    "format": "JPEG",
+    "bytes": 70892,
+    "sha256": "400191e2c4e3594365a6eafe64e923fc470ff3d57b3ffed5449ffc95883f1b6a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C5A17C6D0C2B9B2B815D898A3E50F52C.jpg",
+    "path": "assets/表情包/C5A17C6D0C2B9B2B815D898A3E50F52C.gif",
+    "format": "GIF",
+    "bytes": 1545442,
+    "sha256": "1d1acb700f104ce57a2e100833d985c821696fae1cd460b6fd2af3450bac2eb7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C5D8385520E0C0B734BE625A139E0B46.jpg",
+    "path": "assets/表情包/C5D8385520E0C0B734BE625A139E0B46.jpg",
+    "format": "JPEG",
+    "bytes": 119593,
+    "sha256": "f04680e42d00ac14b62edb5dc762408ef9e032e1eac825d8779b74393089adae"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C5E6F964986F291020F5CFD3F45FB84B.jpg",
+    "path": "assets/表情包/C5E6F964986F291020F5CFD3F45FB84B.jpg",
+    "format": "JPEG",
+    "bytes": 5140,
+    "sha256": "f3017ddc605def8403792df2390bc0a0a36e12ee390be0a9f76008224e3f06a3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C69DFB7CEF259FC1E6521DDF959AC29D.jpg",
+    "path": "assets/表情包/C69DFB7CEF259FC1E6521DDF959AC29D.jpg",
+    "format": "JPEG",
+    "bytes": 11967,
+    "sha256": "beecebc694c8f66e2a05147bcae526742c492b8bb9f61d01560e5295193b8030"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C6BAD325CDEB056A9D260E2178F0A65F.jpg",
+    "path": "assets/表情包/C6BAD325CDEB056A9D260E2178F0A65F.jpg",
+    "format": "JPEG",
+    "bytes": 92109,
+    "sha256": "9dee33d178a57c460d45f50101db787b13e45942ffaf2b54f8c5224e80bf1251"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C6C9319E9B9BD076ED87A8FD59FB371D.jpg",
+    "path": "assets/表情包/C6C9319E9B9BD076ED87A8FD59FB371D.gif",
+    "format": "GIF",
+    "bytes": 44389,
+    "sha256": "af02c286235d3ea5d1cdbb3ffb2203e67aa87787830569773267af3d97db95c7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C70BDFB2738E1733084FD7B07645F7D2.jpg",
+    "path": "assets/表情包/C70BDFB2738E1733084FD7B07645F7D2.jpg",
+    "format": "JPEG",
+    "bytes": 6366,
+    "sha256": "18f91ac5a65e3119e4312c220dfc8c6fa3ef37971c6a27498157075189242770"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C76293E29813C71DF466BCA0F2E3D23F.jpg",
+    "path": "assets/表情包/C76293E29813C71DF466BCA0F2E3D23F.jpg",
+    "format": "JPEG",
+    "bytes": 7109,
+    "sha256": "5288bbb07e640fe992db1aa61c63c8156a4e4d033972c036495b98b349040e24"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C786DB8C94A1849110EA3000798A0490.jpg",
+    "path": "assets/表情包/C786DB8C94A1849110EA3000798A0490.png",
+    "format": "PNG",
+    "bytes": 22453,
+    "sha256": "0a210007d3051b455e94aa6efe4e324f7671d684bc2e4851921558ee10edc512"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C80F9E27ACF744C615D81E1EAC859378.jpg",
+    "path": "assets/表情包/C80F9E27ACF744C615D81E1EAC859378.jpg",
+    "format": "JPEG",
+    "bytes": 19032,
+    "sha256": "0fdf72b13cb9cbfc5f647939e8fd8049a9337d6f866087270fcc1eb350da4cc8"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C8478EE4444C6E4B671DA6F4F3E94550.jpg",
+    "path": "assets/表情包/C8478EE4444C6E4B671DA6F4F3E94550.jpg",
+    "format": "JPEG",
+    "bytes": 13609,
+    "sha256": "01b52ebf5a030fa9c4cf4e10aaa4d80c1449da9d95870142bdc88f96950ac224"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C8CE553F7588A19A95D157521E65B070.jpg",
+    "path": "assets/表情包/C8CE553F7588A19A95D157521E65B070.jpg",
+    "format": "JPEG",
+    "bytes": 6989,
+    "sha256": "7d55544fd5db2c1569da3533a437a55ef305cd89b6ff91314b8309c6aff181e5"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C8DF541CAEAFAB8AD9FE874BBE888DA3.jpg",
+    "path": "assets/表情包/C8DF541CAEAFAB8AD9FE874BBE888DA3.gif",
+    "format": "GIF",
+    "bytes": 9171,
+    "sha256": "b24c3a205adc5ed354eaec99280e6aa1ab0c27380c98f9fae018d3df47818750"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/C9627D4A89700D96A053603F51747DC2.jpg",
+    "path": "assets/表情包/C9627D4A89700D96A053603F51747DC2.jpg",
+    "format": "JPEG",
+    "bytes": 36351,
+    "sha256": "71b530021776a29556c506ab64e2b89273982d704b3bb32cd65b8eafd46480a9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CA207F8E95B26D075D93577679E764E8.jpg",
+    "path": "assets/表情包/CA207F8E95B26D075D93577679E764E8.jpg",
+    "format": "JPEG",
+    "bytes": 35029,
+    "sha256": "8b9d556401d1282e4c6dc6421766995999994256d63531a21aafd67a032f6696"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CA493B3E34E01FC5B1752185CD9A96D2.jpg",
+    "path": "assets/表情包/CA493B3E34E01FC5B1752185CD9A96D2.png",
+    "format": "PNG",
+    "bytes": 30534,
+    "sha256": "02ee64038f44ca5175b5ebd8f1946f689f62b94e90205963ba3d316caea0b7c9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CB07EE94BAB940D1D8833100F595A8D3.jpg",
+    "path": "assets/表情包/CB07EE94BAB940D1D8833100F595A8D3.jpg",
+    "format": "JPEG",
+    "bytes": 66516,
+    "sha256": "1510b50cdac8292526e5904f75fa2f33156e610a986e2d2ffdb82b6419943f4f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CB1DBB4E45082704B5A7FCC96EACAC74.jpg",
+    "path": "assets/表情包/CB1DBB4E45082704B5A7FCC96EACAC74.jpg",
+    "format": "JPEG",
+    "bytes": 29346,
+    "sha256": "a6484ba17253927992c04c9183cf3e358e7feed454220abe37b95f52ed796cac"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CB95FFDCBE9FF273E4BDD37925790C5E.jpg",
+    "path": "assets/表情包/CB95FFDCBE9FF273E4BDD37925790C5E.jpg",
+    "format": "JPEG",
+    "bytes": 27723,
+    "sha256": "190de0f6c2011c20993abdc5eee0ddff0dc4cdcf0ad3247b105850fbf77bb136"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CC3B9CB9CAEDE6C47D3520DC71DBC828.jpg",
+    "path": "assets/表情包/CC3B9CB9CAEDE6C47D3520DC71DBC828.gif",
+    "format": "GIF",
+    "bytes": 558417,
+    "sha256": "5c9248c11e7dcc17c00d536f56f35a6d1d1e7f12f36397b5f90f9c3cd7b03c0b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CD189EABA3AE807A44DE000F079E0AEF.jpg",
+    "path": "assets/表情包/CD189EABA3AE807A44DE000F079E0AEF.jpg",
+    "format": "JPEG",
+    "bytes": 66147,
+    "sha256": "f48d812e7f7d9a717a87230b142d164d5d8e7166cc149bcdd59312017e275963"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CD92D289EF59DDE381669B14D417A5C1.jpg",
+    "path": "assets/表情包/CD92D289EF59DDE381669B14D417A5C1.gif",
+    "format": "GIF",
+    "bytes": 438941,
+    "sha256": "d35d97029f7b7371c6c89b6848a97aba8a140f8dd19208e855ebe73d27558152"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CDDFACD02BDC8DC2773355CA8EF485D3.jpg",
+    "path": "assets/表情包/CDDFACD02BDC8DC2773355CA8EF485D3.jpg",
+    "format": "JPEG",
+    "bytes": 12123,
+    "sha256": "3902bf5ca01b9c5fdb947fa644c5eb7fd114607bef8990626bb02f346c0639ba"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CF3C4A3A9E8140F50344255A928CF5B0.jpg",
+    "path": "assets/表情包/CF3C4A3A9E8140F50344255A928CF5B0.jpg",
+    "format": "JPEG",
+    "bytes": 46508,
+    "sha256": "c63f0a077244dcc7efa1d927ee798224a92830583fbfbe0f1b7e365f75ad5591"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/CFBECEA866D3D939367DC4BC04947ACE.jpg",
+    "path": "assets/表情包/CFBECEA866D3D939367DC4BC04947ACE.jpg",
+    "format": "JPEG",
+    "bytes": 110867,
+    "sha256": "b02eab0bb712d31f18f2af77b04b63270b95e03830e3dd9f1821f08431044974"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D1280F3878ED54D43E3A0825C491760B.jpg",
+    "path": "assets/表情包/D1280F3878ED54D43E3A0825C491760B.jpg",
+    "format": "JPEG",
+    "bytes": 3030,
+    "sha256": "0c01e21a4b803bef07752c86305c293620d8028981d1f230e0f80f93e2f00c2a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D1372D927AA8B0518591D940B19D19E7.jpg",
+    "path": "assets/表情包/D1372D927AA8B0518591D940B19D19E7.gif",
+    "format": "GIF",
+    "bytes": 1793038,
+    "sha256": "afd02089ef40fc5774b0b2bf585540c9de2a2d0951e76d26d96704af3b22b013"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D26343E236B77D286A6AB4C105AEF70E.jpg",
+    "path": "assets/表情包/D26343E236B77D286A6AB4C105AEF70E.jpg",
+    "format": "JPEG",
+    "bytes": 37045,
+    "sha256": "24cd3eab0f051b975e5b8492cf5e1a6907bbc2a9d4906ba2cbb506265bb94b1e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D2873E3344EBBC5C9AE26DC7B2D68F49.jpg",
+    "path": "assets/表情包/D2873E3344EBBC5C9AE26DC7B2D68F49.gif",
+    "format": "GIF",
+    "bytes": 48518,
+    "sha256": "5cf67c24bb4dc499f87bf68eb75d20e83e03543a9559774ddac29236411a2675"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D47457B11A938834EFF44A97B7960B29.jpg",
+    "path": "assets/表情包/D47457B11A938834EFF44A97B7960B29.gif",
+    "format": "GIF",
+    "bytes": 62526,
+    "sha256": "72f49a83f75c879dc5a1fab1be8f43386382c5a8fc12f0d989ddcf21e86011f1"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D5F02FC919DB585A03BCB20C01C49FDF.jpg",
+    "path": "assets/表情包/D5F02FC919DB585A03BCB20C01C49FDF.jpg",
+    "format": "JPEG",
+    "bytes": 2667,
+    "sha256": "db47f67e823481af138e04a167ddf05372399cb74c1f8a455a1737ba62fd6dd9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D5F86DD8C8D10B88244E2D0376CD873B.jpg",
+    "path": "assets/表情包/D5F86DD8C8D10B88244E2D0376CD873B.jpg",
+    "format": "JPEG",
+    "bytes": 2275,
+    "sha256": "d59c04fbff7d7ca72496b3b98f73b53d2f011b3f31946939256a51f88cc66690"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D75B011F8C61E55912D21492718747D2.jpg",
+    "path": "assets/表情包/D75B011F8C61E55912D21492718747D2.gif",
+    "format": "GIF",
+    "bytes": 83482,
+    "sha256": "a17bb2fba9faf68d3621e20af853dcff3ba4777a50877a47a4f8afce198e51ee"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D79CB43D922811D6BB935EA6A0F07DF8.jpg",
+    "path": "assets/表情包/D79CB43D922811D6BB935EA6A0F07DF8.gif",
+    "format": "GIF",
+    "bytes": 1450027,
+    "sha256": "91ca7798d3f68deed63ad37dd9fd9c1d8a9c132abd1096adb1ee44a98bb90350"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D7D1BD54CB1259FD1AC15B1443EB7BA0.jpg",
+    "path": "assets/表情包/D7D1BD54CB1259FD1AC15B1443EB7BA0.jpg",
+    "format": "JPEG",
+    "bytes": 30316,
+    "sha256": "e95532070a33df2f8a867e50a8c3888158d224577c197b18fbc9309b8dc83bf2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D85E6F7D3E3DFE5D6008B13C275F108B.jpg",
+    "path": "assets/表情包/D85E6F7D3E3DFE5D6008B13C275F108B.jpg",
+    "format": "JPEG",
+    "bytes": 123084,
+    "sha256": "61c09c449fa740e9eaedcd1f800b067c7341cd5e5130cd35b8939367beb97afb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D8A84A29591567526CDCE95A28DD424B.jpg",
+    "path": "assets/表情包/D8A84A29591567526CDCE95A28DD424B.jpg",
+    "format": "JPEG",
+    "bytes": 52352,
+    "sha256": "df92f3dae9fbda90c118bb5a56ba0d155b6e8dd254d50402654252a3b3173243"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D8E9E4F86E93A1340470B67B6A909581.jpg",
+    "path": "assets/表情包/D8E9E4F86E93A1340470B67B6A909581.jpg",
+    "format": "JPEG",
+    "bytes": 28764,
+    "sha256": "7930e0954f6fd674f17595f82a50745fbf099d15952366583cd8064cc36df202"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D91CD082DCA9CB8E27DBFA269A79F51C.jpg",
+    "path": "assets/表情包/D91CD082DCA9CB8E27DBFA269A79F51C.jpg",
+    "format": "JPEG",
+    "bytes": 32322,
+    "sha256": "d2e39c2f67ae4a9dd3354aa6159f786e1ba99421fd2c431ae93fb360cca86b39"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D929FAA5201D947D99E140A0434516D4.jpg",
+    "path": "assets/表情包/D929FAA5201D947D99E140A0434516D4.jpg",
+    "format": "JPEG",
+    "bytes": 96312,
+    "sha256": "d9e63eedd64102dc6d8ed66534760cc65a717e41da6d5fc34fda9ba68c4866df"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/D9E78284EEE444A0E70931F00F1EA2B5.jpg",
+    "path": "assets/表情包/D9E78284EEE444A0E70931F00F1EA2B5.gif",
+    "format": "GIF",
+    "bytes": 1783633,
+    "sha256": "5d36dcc26097d7944fae43484ba81c509f515197af414b97da1299c0bcd580f7"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DA245C60B114639AD318C00928F597B8.jpg",
+    "path": "assets/表情包/DA245C60B114639AD318C00928F597B8.jpg",
+    "format": "JPEG",
+    "bytes": 43621,
+    "sha256": "82232fd453d5b35dc0bb4239eecb3f08dd5e9b40982b680792a0f7325cf59aea"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DA694EB7C91F99F7C5922414623483DB.jpg",
+    "path": "assets/表情包/DA694EB7C91F99F7C5922414623483DB.jpg",
+    "format": "JPEG",
+    "bytes": 39397,
+    "sha256": "57e2525ab354d9432d724f64857d6f4b1d8acf002a6033f820e207e02565b85e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DAC21CAEA3BEDA6EFFA693A0C8494D0F.jpg",
+    "path": "assets/表情包/DAC21CAEA3BEDA6EFFA693A0C8494D0F.gif",
+    "format": "GIF",
+    "bytes": 112622,
+    "sha256": "9c98dfed7e48f494626b9126ab405b324e3809e2df2a34d854adf554e1ae621d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DC937A0B68A506D77814153F251AED81.jpg",
+    "path": "assets/表情包/DC937A0B68A506D77814153F251AED81.gif",
+    "format": "GIF",
+    "bytes": 1487215,
+    "sha256": "08c3d35b39dd27d93e8cac907b08b812ca7eaef8596ed3732a4e828b189ce263"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DD77B7CB7672FEEEFF1053CD151B641F.jpg",
+    "path": "assets/表情包/DD77B7CB7672FEEEFF1053CD151B641F.jpg",
+    "format": "JPEG",
+    "bytes": 14279,
+    "sha256": "5ed1decc5fa731f3038a836499fcb20b469565945e371c70646b03d1ed02f99d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DDAB23E6837EDB85AD7B41532840BE9E.jpg",
+    "path": "assets/表情包/DDAB23E6837EDB85AD7B41532840BE9E.gif",
+    "format": "GIF",
+    "bytes": 666794,
+    "sha256": "d2d7e3838173371bf311a27f6693b560f51ee98563612f79b4876b3728fcb95e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DE0DBD72FFFBE42EFD0A3857FFE5BA9D.jpg",
+    "path": "assets/表情包/DE0DBD72FFFBE42EFD0A3857FFE5BA9D.jpg",
+    "format": "JPEG",
+    "bytes": 29834,
+    "sha256": "161c4240be0e3a1452a6f36f0802b33819bcb301a7f2de083518e9026fbbc183"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DEAF85C5BB29B78653A1AF71BA4CCF9B.jpg",
+    "path": "assets/表情包/DEAF85C5BB29B78653A1AF71BA4CCF9B.jpg",
+    "format": "JPEG",
+    "bytes": 116180,
+    "sha256": "0b28862aeab942277312411c2dfb0a19a1498ab9e0defcd442fb8fae8b20ff8d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DEB97C5FB76C6BE4FB585F6AF0E6A6DF.jpg",
+    "path": "assets/表情包/DEB97C5FB76C6BE4FB585F6AF0E6A6DF.jpg",
+    "format": "JPEG",
+    "bytes": 94292,
+    "sha256": "7e4e54ad12dfe3cd905d0baa6a27de8124b84b9d34ff39f3c866ae0997e16acb"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DEBD07E85F6A704892C27FB8DF64AFA0.jpg",
+    "path": "assets/表情包/DEBD07E85F6A704892C27FB8DF64AFA0.jpg",
+    "format": "JPEG",
+    "bytes": 38731,
+    "sha256": "42337eef742945a73c8e078c2e9b357cc6824d2f9bb7c9a579501061cb818db4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/DF8A162FE2F7CED5D5E3B61A4F6DAADC.jpg",
+    "path": "assets/表情包/DF8A162FE2F7CED5D5E3B61A4F6DAADC.jpg",
+    "format": "JPEG",
+    "bytes": 1179,
+    "sha256": "ff6a4db858c7dc4efc44019cfbb7294138d768b0b0e4fa5cc0c1712aeca462cc"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E0749EC3B0FCC222F49DFECC6ECF4437.jpg",
+    "path": "assets/表情包/E0749EC3B0FCC222F49DFECC6ECF4437.gif",
+    "format": "GIF",
+    "bytes": 5604074,
+    "sha256": "81eb184d2a0f15b5c40bf33144372af415b2d8e2f3effff2e45e906e5d975d2f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E0E644A4D1994E67863899469289E245.jpg",
+    "path": "assets/表情包/E0E644A4D1994E67863899469289E245.jpg",
+    "format": "JPEG",
+    "bytes": 22952,
+    "sha256": "8f9aaedfab42ec1520c4b79d6757608ec08fae91621b0db16018f3388762fccd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E24DC894F9CF890D986AD636AAC73E28.jpg",
+    "path": "assets/表情包/E24DC894F9CF890D986AD636AAC73E28.gif",
+    "format": "GIF",
+    "bytes": 261000,
+    "sha256": "f2f40dab8146ec00853310d0cbdcac51c5c67a690f33617b720c86db959513ed"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E24EC11E635BAA9E2579B0113AF32AFA.jpg",
+    "path": "assets/表情包/E24EC11E635BAA9E2579B0113AF32AFA.jpg",
+    "format": "JPEG",
+    "bytes": 17835,
+    "sha256": "a910427581992a78c15dcb3db2596f648d3fd155d3c8fe8463d6c99b7c1260f0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E280180B43049F224BEA2EF4865017D4.jpg",
+    "path": "assets/表情包/E280180B43049F224BEA2EF4865017D4.jpg",
+    "format": "JPEG",
+    "bytes": 1618,
+    "sha256": "af037e304442c9e9fa89698af8c8a23746bbcdc9a8884b596c39df5e6259a201"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E2EC449E4D41617D85CCC983F7DD7F6A.jpg",
+    "path": "assets/表情包/E2EC449E4D41617D85CCC983F7DD7F6A.gif",
+    "format": "GIF",
+    "bytes": 1187609,
+    "sha256": "17fa3ca9ce951165e0093a27d0ef64d2e1cc4945b4037d033cc946a5c4a94791"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E319B7558B2E556DAE64A72C7F268D17.jpg",
+    "path": "assets/表情包/E319B7558B2E556DAE64A72C7F268D17.jpg",
+    "format": "JPEG",
+    "bytes": 105339,
+    "sha256": "f86aad9999f5d76449fe6ef36c0d6405ab97aacaaa52d776ff48d061ac888348"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E4532B539EE4D6DB958829343A08A509.jpg",
+    "path": "assets/表情包/E4532B539EE4D6DB958829343A08A509.png",
+    "format": "PNG",
+    "bytes": 25836,
+    "sha256": "e780da8da47012563d7491a0bdbc31284209fabd04c91037ec1de799a2b2ac37"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E4728BF97CFAC661DCBAF773B2B7F826.jpg",
+    "path": "assets/表情包/E4728BF97CFAC661DCBAF773B2B7F826.gif",
+    "format": "GIF",
+    "bytes": 996591,
+    "sha256": "c6adc5daa591d722afd9590e01ce1965e1b6f09ea012e1711914787e3f60d051"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E4999CE0CD52406EDA613142679C07E6.jpg",
+    "path": "assets/表情包/E4999CE0CD52406EDA613142679C07E6.gif",
+    "format": "GIF",
+    "bytes": 581987,
+    "sha256": "6e5cc10c86d72fa1455a3ecfa56a3ba4770c5ad96b6021b631c71954f5f4eaa4"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E4A77A0A2EF03D357B8E6149B975126D.jpg",
+    "path": "assets/表情包/E4A77A0A2EF03D357B8E6149B975126D.jpg",
+    "format": "JPEG",
+    "bytes": 9604,
+    "sha256": "5ee55e90f5647cb84bd3bdfae0dd9e76ede887be7c14b46ec64c90b66729d78a"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E5A933FCF5C7528C066330655E52BD0A.jpg",
+    "path": "assets/表情包/E5A933FCF5C7528C066330655E52BD0A.gif",
+    "format": "GIF",
+    "bytes": 112143,
+    "sha256": "d56f62e6ee65b28298a3ca43a874d96a99919fa68cf3bc14de50ef86f05fb32e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E60084B4469D677DB6C6E744C415796F.jpg",
+    "path": "assets/表情包/E60084B4469D677DB6C6E744C415796F.gif",
+    "format": "GIF",
+    "bytes": 3653,
+    "sha256": "b0047c0c71534ee5a69c993823721354284ca28fc357d5442f0f823fd35daf41"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E642F7E6F8F08F9019A0D2D9EEC29AAB.jpg",
+    "path": "assets/表情包/E642F7E6F8F08F9019A0D2D9EEC29AAB.jpg",
+    "format": "JPEG",
+    "bytes": 6727,
+    "sha256": "18df7f7e2cbb1e198fa8b81d43201be8900109ca25cd24ac5a06dd27f5626cce"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E7CA50D5CA4DD3BFA90BD672A7BDBFD0.jpg",
+    "path": "assets/表情包/E7CA50D5CA4DD3BFA90BD672A7BDBFD0.gif",
+    "format": "GIF",
+    "bytes": 410545,
+    "sha256": "ad503dd32418df3aabbe89d8cd89ee711d21ef08350a2e4101d6db6322d69978"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E81ACB077261141A01597782DEF5EDCC.jpg",
+    "path": "assets/表情包/E81ACB077261141A01597782DEF5EDCC.gif",
+    "format": "GIF",
+    "bytes": 646435,
+    "sha256": "9f499012578fc2147a767c4dd38a1a0ad862dca9af00d4d2c7dd3198fb0dffe2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/E8D61CDD15035B70049D2689AE63DF7C.jpg",
+    "path": "assets/表情包/E8D61CDD15035B70049D2689AE63DF7C.gif",
+    "format": "GIF",
+    "bytes": 750363,
+    "sha256": "091db2ad5bbb2603b38a9a266da23a6e57f9cea3bb5fea5eda10d30f73866e95"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EA7B3C9C96A0EB7DA1E982413334D4E2.jpg",
+    "path": "assets/表情包/EA7B3C9C96A0EB7DA1E982413334D4E2.jpg",
+    "format": "JPEG",
+    "bytes": 8003,
+    "sha256": "de37a92f998272df33696475c4cf01a5788fff70d1d2b3386619d5da0ade6824"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EAB45F465ED035C58C8595159EB9F6E2.jpg",
+    "path": "assets/表情包/EAB45F465ED035C58C8595159EB9F6E2.gif",
+    "format": "GIF",
+    "bytes": 15800,
+    "sha256": "1ea795134882b902a7515ffeafd112580661e9641baf237515886caf70f86d2f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EAE58B1D3DDE45564689FBCA9ED5281B.jpg",
+    "path": "assets/表情包/EAE58B1D3DDE45564689FBCA9ED5281B.jpg",
+    "format": "JPEG",
+    "bytes": 15564,
+    "sha256": "b856f4076a40c3173a2fe99e472899f33874fa15888deed4f800cc020dea2ebf"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/ED17586C2387C4FE9158C414B0DEB035.jpg",
+    "path": "assets/表情包/ED17586C2387C4FE9158C414B0DEB035.jpg",
+    "format": "JPEG",
+    "bytes": 71643,
+    "sha256": "ce3dee45a2eb4acc01c8d68dead457b142d6ce64cec88b26384109dc46fa7b6d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EDAA91DACBA21F25F640A0DE86543F42.jpg",
+    "path": "assets/表情包/EDAA91DACBA21F25F640A0DE86543F42.gif",
+    "format": "GIF",
+    "bytes": 974531,
+    "sha256": "38cfef6c74c18bcf5246ca1363b07b416f5f34df030554bd0a95ea2b0a3a2118"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EDF2120946E4D4AC56C7535AF59536AD.jpg",
+    "path": "assets/表情包/EDF2120946E4D4AC56C7535AF59536AD.gif",
+    "format": "GIF",
+    "bytes": 1500268,
+    "sha256": "36363c1eb3fc9d39b42292ff7987761c3a214051fb26815bf91171683b29ea08"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EE31F95B785F5B756B9CC291AC4E7184.jpg",
+    "path": "assets/表情包/EE31F95B785F5B756B9CC291AC4E7184.jpg",
+    "format": "JPEG",
+    "bytes": 969,
+    "sha256": "e2e8eeb2c93d7aac63fde1e8dea73afbb7d48246275f7e02e92441130d2a29cd"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EE810AB54B745C3A33E74F812C9C0297.jpg",
+    "path": "assets/表情包/EE810AB54B745C3A33E74F812C9C0297.gif",
+    "format": "GIF",
+    "bytes": 720066,
+    "sha256": "31dc4766f707d2d21523ce49900b19035cf20336b333e5d4b2c882640ee772a3"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/EFF6DC1A0CDE8272DF4B466039937092.jpg",
+    "path": "assets/表情包/EFF6DC1A0CDE8272DF4B466039937092.jpg",
+    "format": "JPEG",
+    "bytes": 105158,
+    "sha256": "1b8736e0e2d393a5d0398171ef0a01e5295fd625b07cb58d48c96a8888909662"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F18DCDF6A12CA72D01E0AB34390F121B.jpg",
+    "path": "assets/表情包/F18DCDF6A12CA72D01E0AB34390F121B.jpg",
+    "format": "JPEG",
+    "bytes": 34585,
+    "sha256": "976514aa318710c2a6550e0ec6c41377122bdd73375fb41fd8de52c8f0abbce9"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F1E0E04CC4C1C57EDE65782D37D8ECF6.jpg",
+    "path": "assets/表情包/F1E0E04CC4C1C57EDE65782D37D8ECF6.jpg",
+    "format": "JPEG",
+    "bytes": 130952,
+    "sha256": "9d7c9c7b7f23c85e199bc65806526b00c3d8371a61dc49f8e2a875a833c5b8bc"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F20BCE24D93267ABC037E02CE45ABC9B.jpg",
+    "path": "assets/表情包/F20BCE24D93267ABC037E02CE45ABC9B.jpg",
+    "format": "JPEG",
+    "bytes": 8816,
+    "sha256": "516784352e5ec4993ce8a7a5179bd590aa214df117648d36e305928ec5a13d65"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F2B4CA0809EC679F2EC56C77D3F8958F.jpg",
+    "path": "assets/表情包/F2B4CA0809EC679F2EC56C77D3F8958F.gif",
+    "format": "GIF",
+    "bytes": 1343409,
+    "sha256": "d656725dba063cd8f954b465387d86f1a6617235bc032542ded43107ace38459"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F2C66505F99CF4390AD2692AFED5BED4.jpg",
+    "path": "assets/表情包/F2C66505F99CF4390AD2692AFED5BED4.jpg",
+    "format": "JPEG",
+    "bytes": 17213,
+    "sha256": "d5714f96dfcf1c949509e0bf44208701025773aaf29737adc94861ed3d172d4b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F33A775126397E33E9F56A89F9896A0C.jpg",
+    "path": "assets/表情包/F33A775126397E33E9F56A89F9896A0C.gif",
+    "format": "GIF",
+    "bytes": 101334,
+    "sha256": "81b61b043659cd7b9ff8b5d0f4521b790a4ef3f249a4c2ad2c8ce630ac3c1100"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F39EACD4D03226F31E63733A51DCFDFF.jpg",
+    "path": "assets/表情包/F39EACD4D03226F31E63733A51DCFDFF.jpg",
+    "format": "JPEG",
+    "bytes": 64667,
+    "sha256": "c4287c5ddb9ab9f7bbb7a0c62fcd483f672a64b565cbce6c77d7749d4b3449d2"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F3E46D5A7B74E1717DB023B41C9A9EF2.jpg",
+    "path": "assets/表情包/F3E46D5A7B74E1717DB023B41C9A9EF2.jpg",
+    "format": "JPEG",
+    "bytes": 1754,
+    "sha256": "ea585c4d25ee15197bf9d7659ec72a83ef42342ffcda8466288f6a889361e037"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F492E43D8D4D612193BD0379EFD3CA3F.jpg",
+    "path": "assets/表情包/F492E43D8D4D612193BD0379EFD3CA3F.gif",
+    "format": "GIF",
+    "bytes": 31702,
+    "sha256": "6a083167c44dc65c8fc2865569f70becacfc4e32ba250e1e421f5659b2a3e43d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F50351ECE80EAD3932E94B8E3562134B.jpg",
+    "path": "assets/表情包/F50351ECE80EAD3932E94B8E3562134B.jpg",
+    "format": "JPEG",
+    "bytes": 91219,
+    "sha256": "1b712beef668a5a57e656acc4db24a3a59db5a66c4e6c0cda7d51d0ecaf2ef06"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F50407CB5D16A274168D970CB53FA816.jpg",
+    "path": "assets/表情包/F50407CB5D16A274168D970CB53FA816.jpg",
+    "format": "JPEG",
+    "bytes": 51107,
+    "sha256": "42fb3d6fe2d4c193393df941178369835a34a6fd1476a36542003b9ab1f4daa1"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F5C7D6E4E847AF202E5981BBF6352DC5.jpg",
+    "path": "assets/表情包/F5C7D6E4E847AF202E5981BBF6352DC5.gif",
+    "format": "GIF",
+    "bytes": 1422155,
+    "sha256": "a200de8aac3a8e11db3c9d28d394ca50251aeaadc7f7bb995346b6780cbac0fa"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F5F29F4A6802E522BAC6339DAA7D455B.jpg",
+    "path": "assets/表情包/F5F29F4A6802E522BAC6339DAA7D455B.jpg",
+    "format": "JPEG",
+    "bytes": 108708,
+    "sha256": "fbd904851aea9f77d4a683ec41f90cdfed70ffc5ebf25b84890aff2f9c50008e"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F606006C79CF32F6CF05F389444E9FE9.jpg",
+    "path": "assets/表情包/F606006C79CF32F6CF05F389444E9FE9.jpg",
+    "format": "JPEG",
+    "bytes": 75775,
+    "sha256": "4f1cf740c4294498e576f9bff9382bb1c004e8e933909eafeb7b6d589caa5c7f"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F83BEFEE60E65724E7502F4F1C67E2E0.jpg",
+    "path": "assets/表情包/F83BEFEE60E65724E7502F4F1C67E2E0.jpg",
+    "format": "JPEG",
+    "bytes": 19917,
+    "sha256": "696a0504dd0758a55fa5593e2fd7a0628afc25c490f7c58eaf612d7b323ed7cf"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F8C66793C34AD15E10B0AEDFFC51AA14.jpg",
+    "path": "assets/表情包/F8C66793C34AD15E10B0AEDFFC51AA14.jpg",
+    "format": "JPEG",
+    "bytes": 93428,
+    "sha256": "70a1292cd7e434a833a8a5ec781dc99285f83ff40ab9a9ebe89b2ab2eb747d71"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/F9619807365CD064C7D20F4E011A751D.jpg",
+    "path": "assets/表情包/F9619807365CD064C7D20F4E011A751D.jpg",
+    "format": "JPEG",
+    "bytes": 1955,
+    "sha256": "0b6fd16481d8e64b24a3962ff5c8c2b66d5ce7d2444799733204b6c1151bcd10"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FA359438A64E35E30632343C88192EEC.jpg",
+    "path": "assets/表情包/FA359438A64E35E30632343C88192EEC.gif",
+    "format": "GIF",
+    "bytes": 155300,
+    "sha256": "a8d2e61eff529a5930dbad048c3623cdaf5d00dfcea8e881672b29b804b8d345"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FA826EFB666766D5B15FBFB47485FB9D.jpg",
+    "path": "assets/表情包/FA826EFB666766D5B15FBFB47485FB9D.gif",
+    "format": "GIF",
+    "bytes": 580690,
+    "sha256": "e0929379403201a3f4878272fe79565474c4ca12b2dedfb72308f0f49959b444"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FAABF8C63B1EC01CBA9C33B3DE9D3A49.jpg",
+    "path": "assets/表情包/FAABF8C63B1EC01CBA9C33B3DE9D3A49.gif",
+    "format": "GIF",
+    "bytes": 1212812,
+    "sha256": "0fabe53e0f4ef796e01b92593ebdadef39e59be78907f0eb1a22273dd9ff1add"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FC3329F81F4784CEC80B74DE4CE65B3F.jpg",
+    "path": "assets/表情包/FC3329F81F4784CEC80B74DE4CE65B3F.jpg",
+    "format": "JPEG",
+    "bytes": 30197,
+    "sha256": "d28c109d2d9d62f06d60710e135f5a4870686b52ca6cb773ddeeacc0d520725b"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FD255A1DCEB14969DA7F5BD6AA05D137.jpg",
+    "path": "assets/表情包/FD255A1DCEB14969DA7F5BD6AA05D137.jpg",
+    "format": "JPEG",
+    "bytes": 22027,
+    "sha256": "edd7690c89a5d217018230840526dc7a4ad0166696b956e8022155a51ebbfb05"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FDF9026BEBC5BE946A6343439CE4A576.jpg",
+    "path": "assets/表情包/FDF9026BEBC5BE946A6343439CE4A576.gif",
+    "format": "GIF",
+    "bytes": 3186464,
+    "sha256": "a42fb6bf9cba07181f332db1c7bd429c62a14a54fa6cd459cf5848cda6d4573d"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FE98499EA92E781D0B6431D7737E7A9C.jpg",
+    "path": "assets/表情包/FE98499EA92E781D0B6431D7737E7A9C.jpg",
+    "format": "JPEG",
+    "bytes": 11253,
+    "sha256": "196177bacaf35771a5999bffbc7fda4ba2af841ceb28d5c7828b673499ee5e20"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FE9E9521F8F06620817AC6130B8FC413.jpg",
+    "path": "assets/表情包/FE9E9521F8F06620817AC6130B8FC413.jpg",
+    "format": "JPEG",
+    "bytes": 152932,
+    "sha256": "a3602612704a48d9bfe121bd2719952fefbd3058418fa71dac36f2dad751a248"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FEA9B5E0983CA909D4AA668F2AE371D3.jpg",
+    "path": "assets/表情包/FEA9B5E0983CA909D4AA668F2AE371D3.gif",
+    "format": "GIF",
+    "bytes": 1020040,
+    "sha256": "f00d744ecdce81fd1222f3a59ede195af8b4b960eef4f6d80e174a50c8a55ffc"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FF15CF008EDAE468C9489CB69B8074BD.jpg",
+    "path": "assets/表情包/FF15CF008EDAE468C9489CB69B8074BD.jpg",
+    "format": "JPEG",
+    "bytes": 145798,
+    "sha256": "336f37ba97020bff9a9adcb9695c8a8d05178733b62fb870bdb5b766333afc26"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FF5B9FDC2B192DA41D982095720C373F.jpg",
+    "path": "assets/表情包/FF5B9FDC2B192DA41D982095720C373F.jpg",
+    "format": "JPEG",
+    "bytes": 131248,
+    "sha256": "445326d482a325690eae0db8f358a8814f66695bb1fe022c7abcaaaa2eb326e0"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FF6BD9944BD4420683078E439A764D46.jpg",
+    "path": "assets/表情包/FF6BD9944BD4420683078E439A764D46.jpg",
+    "format": "JPEG",
+    "bytes": 202830,
+    "sha256": "c2efc0e8bf754c61ecbeacae220192afec97868d1a379021a3e1b2e5b5b27195"
+  },
+  {
+    "archive": "Ori.zip",
+    "archive_entry": "Ori/FFEBA416EB93164B3FCD5E68A7209B7A.jpg",
+    "path": "assets/表情包/FFEBA416EB93164B3FCD5E68A7209B7A.gif",
+    "format": "GIF",
+    "bytes": 912953,
+    "sha256": "c4ed42f9147285bff512cfa780a016bd4fe7abab97926bc627a434e8fa00efab"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "9.jpg",
+    "path": "assets/背景素材/9.jpg",
+    "format": "JPEG",
+    "bytes": 3194273,
+    "sha256": "218045bf9f342948c4843a0353e3e2bb1f851fb8bf13482636690ffef2fe13a5"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "10.jpg",
+    "path": "assets/背景素材/10.jpg",
+    "format": "JPEG",
+    "bytes": 3250814,
+    "sha256": "e05fd65e7406000552ed0878f55b6f67f98cc48f7b9068d1a0bbc19dee4bfb37"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "1.jpg",
+    "path": "assets/背景素材/1.jpg",
+    "format": "JPEG",
+    "bytes": 3106848,
+    "sha256": "c901067e45cfa5886d0a4f58991fac74bf6adcc4660492818637acd6c56a54f9"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "2.jpg",
+    "path": "assets/背景素材/2.jpg",
+    "format": "JPEG",
+    "bytes": 3055853,
+    "sha256": "7a2905727a8fed7b34ae3dd6ffc8675fc591cb160bf758578cf2dd76e5299f12"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "3.jpg",
+    "path": "assets/背景素材/3.jpg",
+    "format": "JPEG",
+    "bytes": 3332039,
+    "sha256": "fbb8e7cb0b92f93f26833ad956c657242a1345f9f7ac163e5e030c081e3f92a4"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "4.jpg",
+    "path": "assets/背景素材/4.jpg",
+    "format": "JPEG",
+    "bytes": 3341777,
+    "sha256": "d9a0ffe6a52e79abcc694590f7eef7153ceaff510cb0673fbf5d5471aa9e9f84"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "5.jpg",
+    "path": "assets/背景素材/5.jpg",
+    "format": "JPEG",
+    "bytes": 2259089,
+    "sha256": "4d9f3a18b3074d5aedd265ae4fb7f51d6750fe1c437136808287b350d7c0b43a"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "6.jpg",
+    "path": "assets/背景素材/6.jpg",
+    "format": "JPEG",
+    "bytes": 2419614,
+    "sha256": "d115e36bd03476119e3b1ca9c637d358c8816df50d0b3cb1869a9f692d21b010"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "7.jpg",
+    "path": "assets/背景素材/7.jpg",
+    "format": "JPEG",
+    "bytes": 2481388,
+    "sha256": "e3b5226c6f11c1bf8f786847648181ac2e27b5c59b7c0edcb28748bdda61a6be"
+  },
+  {
+    "archive": "background.zip",
+    "archive_entry": "8.jpg",
+    "path": "assets/背景素材/8.jpg",
+    "format": "JPEG",
+    "bytes": 3027009,
+    "sha256": "172bdf99fcd6206cfdd27777c197f5b737edf6fb651932c00b77416f121aa61f"
+  }
+]
