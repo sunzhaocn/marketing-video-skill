@@ -23,6 +23,8 @@ description: 根据用户提供的视频、图片、产品资料或话题素材�
 
 ## 内容与剪辑
 
+用户偏好视频优先、信息更充分：有相关可用视频时优先正常播放真实动作，混剪不同片段，静态图只承担声明、数字或必要说明；动态不等于持续抖动。时长由可支持的信息决定，扩展经过、回应重点与不同讨论角度，不靠重复口播或未经证实的细节凑长。获取微博素材时读 [references/weibo-video-sources.md](references/weibo-video-sources.md)，使用内置下载脚本。
+
 编排开场、画面动效、转场和音效前，读 [references/editing-packaging.md](references/editing-packaging.md)。采用用户要求的抓眼开场、素材拼贴和重点包装；普通展示段保持稳定，不做持续周期性晃动。节奏服从信息和阅读时间，重点动效结束后停稳。
 
 用户提供视频模板时，读 [references/video-templates.md](references/video-templates.md)，从 `assets/视频模板/` 的索引与预览选择结构参考；按本次用户要求决定风格，参考成片的旧字幕、水印和内容不直接套入新稿。
