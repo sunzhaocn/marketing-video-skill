@@ -35,3 +35,7 @@ py -3 -X utf8 "<skill目录>/scripts/index_assets.py"
 ```
 
 执行脚本只更新目录和预览，不改写原素材。不支持解码的文件仍记录在索引中，并报出具体问题；不能因为文件已复制就说可用于制作。新文件的后缀与内容不符时先检测实际格式，再在不覆盖不同文件的前提下修正名称。
+
+## 视频模板
+
+新增15个视频参考成片，使用方法见 [video-templates.md](video-templates.md)。视频索引为 `assets/video-template-index.json`，视频预览为 `assets/previews/video-catalog-01.jpg` 至 `video-catalog-03.jpg`；原图片索引仍只管理表情包与背景图片。
