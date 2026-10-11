@@ -2,6 +2,3 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
-
-# Local-only BGM audio; guidance and catalog are shared.
-marketing-video/assets/BGM/
