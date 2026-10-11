@@ -2,6 +2,16 @@
 
 把你提供的话题、视频、图片或产品资料制作成中文短视频，完成素材选择、文案、配音、字幕、剪辑和成片检查，并自动附上发布文案与话题标签。支持事件解说、趣味吐槽、网络梗解说和产品种草。
 
+## 效果演示
+
+[![胡歌《仙剑三》热点测试视频](demo/huge-xianjian3-cover.jpg)](demo/huge-xianjian3-demo.mp4)
+
+[查看测试视频](demo/huge-xianjian3-demo.mp4) · [下载 MP4](https://raw.githubusercontent.com/sunzhaocn/marketing-video-skill/main/demo/huge-xianjian3-demo.mp4)
+
+约97秒，采用随机模板、尖嗓快语速、开场放大、大字幕和动态表情包。先选择关键素材，再写旁白串联；关键原声段关闭新增BGM，保留发言语境。视频以转载片段为依据，不把网友观点包装成当事人回应。
+
+演示视频约13 MiB，放在仓库的 `demo/` 目录，供预览参考。
+
 ## 安装与更新
 
 在 Codex 中发送：
