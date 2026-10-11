@@ -47,7 +47,7 @@ description: 根据用户提供的视频、图片、产品资料或话题素材�
 
 ## 配音、字幕与输出
 
-选配背景音乐时读 [references/bgm-selection.md](references/bgm-selection.md)。用户已提供8类BGM搭配规则；按实际存在的音乐和题材自动选曲、试听与混音，配音优先清晰，使用已认可的变调快语速时只处理配音轨。音乐资产在 assets/BGM，公共仓库提供192 kbps MP3压缩音频；制作前核实实际文件存在并可解码，缺失时补下载或导入。
+选配背景音乐时读 [references/bgm-selection.md](references/bgm-selection.md)。用户已提供8类BGM搭配规则；按实际存在的音乐和题材自动选曲、试听与混音，配音优先清晰，使用已认可的变调快语速时只处理配音轨。音乐资产在 assets/BGM，公共仓库提供48 kbps MP3压缩音频；制作前核实实际文件存在并可解码，缺失时补下载或导入。
 
 实际合成或排查配音、时间线、字幕问题时，读 [references/production-checks.md](references/production-checks.md)。其中包含首条测试证实的检查方法；具体裁切坐标、主题和音色属于单次项目，不能套用于新素材。
 

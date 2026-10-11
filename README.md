@@ -8,7 +8,7 @@
 
 > 使用 $skill-installer 安装 https://github.com/sunzhaocn/marketing-video-skill/tree/main/marketing-video 中的 skill。
 
-音乐文件采用192 kbps MP3压缩格式，62首约281 MiB，直接随仓库下载，无需Git LFS。全部素材合计约593 MiB；请等待下载完成并检查音频实际存在。已安装旧版时，可让Codex更新BGM及索引，保留个人配置和自添素材。
+音乐文件采用48 kbps MP3压缩格式，62首约70 MiB，直接随仓库下载，无需Git LFS。全部素材合计约382 MiB；请等待下载完成并检查音频实际存在。已安装旧版时，可让Codex更新BGM及索引，保留个人配置和自添素材。
 
 安装后下一轮可以使用 `$marketing-video`。安装本身不会启动定制问答，也不会自动安装配音或视频工具。
 
@@ -97,7 +97,7 @@
 
 > 我在素材库里加了新素材，请检查可用性并更新索引，以后制作时可以使用。
 
-BGM包含8类选曲规则、62首曲目索引及**192 kbps MP3音频（约281 MiB）**，直接随仓库提供；实际有音频才会选用。没有音乐时可制作无BGM版本。静态与动态素材按真实格式区分，动画保留逐帧时长。最初分析的示例视频、新闻截图和测试成片也不随仓库发布。
+BGM包含8类选曲规则、62首曲目索引及**48 kbps MP3音频（约70 MiB）**，直接随仓库提供；实际有音频才会选用。没有音乐时可制作无BGM版本。静态与动态素材按真实格式区分，动画保留逐帧时长。最初分析的示例视频、新闻截图和测试成片也不随仓库发布。
 
 长期个人偏好用“修改配置”保存；公共制作规则放在 `references/` 并从 `SKILL.md` 链接。一次事件的源素材和成片保留在项目内。
 
@@ -116,3 +116,9 @@ BGM包含8类选曲规则、62首曲目索引及**192 kbps MP3音频（约281 Mi
 - [事件类默认流程](marketing-video/references/event-default-workflow.md)
 - [剪辑包装与事实底线](marketing-video/references/editing-packaging.md)
 - [BGM选曲与混音](marketing-video/references/bgm-selection.md)
+
+## 音乐压缩与历史清理
+
+当前62首BGM为48 kbps、22.05 kHz单声道MP3，约70 MiB，以减小下载体积为优先，音质低于原文件。全部素材约382 MiB，无需Git LFS。旧无损和192 kbps音乐版本已从分支历史移除；历史已重写，旧克隆建议备份自添内容后重新克隆，避免把旧历史推回仓库。下载当前ZIP或浅克隆可取得压缩后的版本。
+
+GitHub旧LFS对象的服务器存储不会因改写历史自动释放，但新克隆不再引用或下载它们。彻底删除远端LFS实体需按[GitHub官方说明](https://docs.github.com/en/repositories/working-with-files/managing-large-files/removing-files-from-git-large-file-storage)联系支持或删除并重建仓库；本次保留仓库，未执行删除重建。
