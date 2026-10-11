@@ -1,6 +1,6 @@
 {
-  "total": 15,
-  "bytes": 127115227,
+  "total": 16,
+  "bytes": 132735752,
   "assets": [
     {
       "name": "01_浮生自洽的微博视频.mp4",
@@ -271,6 +271,25 @@
       "visual_notes": "人物故事；竖屏前景配同画面模糊背景，底部黄白字幕。",
       "role": "带字幕水印的参考成片",
       "verified": "元数据、完整视音频解码、四处抽帧；未完整试听"
+    },
+    {
+      "name": "16_游乐设施与猫咪反应混剪.mp4",
+      "bytes": 5620525,
+      "sha256": "4297ae8cc92f4552353a24f554bce93d493dc30d362d0b52380ba78f1030be5e",
+      "duration": 54.5,
+      "width": 720,
+      "height": 720,
+      "codec": "h264",
+      "audio": true,
+      "decodable": true,
+      "decode_errors": "",
+      "id": "V16",
+      "path": "assets/视频模板/16_游乐设施与猫咪反应混剪.mp4",
+      "style": "方形搞笑反应混剪",
+      "visual_notes": "游乐设施/高空视角与猫咪反应交替，画面内底部烧录短字幕；可参考反应镜头插入与趣味混剪结构，片段使用须相关且处理旧字幕。",
+      "role": "带烧录字幕的参考成片",
+      "verified": "元数据、完整视音频解码、六处抽帧；未完整试听",
+      "preview": "assets/previews/video-catalog-04.jpg"
     }
   ],
   "contact_sheets": [
