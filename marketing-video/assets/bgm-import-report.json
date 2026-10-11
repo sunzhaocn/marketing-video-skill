@@ -1,0 +1,51 @@
+{
+  "total_files": 62,
+  "decodable": 62,
+  "bytes": 1754063188,
+  "missing": [
+    {
+      "category": "01_悬疑揭秘八卦",
+      "requested": "心跳声 音效",
+      "status": "未完成",
+      "reason": "没有可确认的歌曲匹配"
+    },
+    {
+      "category": "01_悬疑揭秘八卦",
+      "requested": "时钟滴答 音效",
+      "status": "未完成",
+      "reason": "没有可确认的歌曲匹配"
+    },
+    {
+      "category": "01_悬疑揭秘八卦",
+      "requested": "Riser 转场 音效",
+      "status": "未完成",
+      "reason": "没有可确认的歌曲匹配"
+    },
+    {
+      "category": "01_悬疑揭秘八卦",
+      "requested": "揭秘 反转 氛围",
+      "status": "未完成",
+      "reason": "没有可确认的歌曲匹配"
+    },
+    {
+      "category": "05_搞笑沙雕盘点",
+      "requested": "罐头笑声 音效",
+      "status": "未完成",
+      "reason": "没有可确认的歌曲匹配"
+    },
+    {
+      "category": "06_国风历史文化",
+      "requested": "象王行",
+      "status": "未完成",
+      "reason": "匹配曲目没有完整播放权限或仅提供试听"
+    },
+    {
+      "category": "07_知识科普商业带货",
+      "requested": "商业 解说 稳重",
+      "status": "未完成",
+      "reason": "没有可确认的歌曲匹配"
+    }
+  ],
+  "privacy": "导入音频及清理后的来源元数据；未导入工具、缓存、账号配置。",
+  "distribution": "歌曲仅本地；GitHub同步规则、索引与缺失清单。"
+}

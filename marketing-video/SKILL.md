@@ -37,6 +37,8 @@ description: 根据用户提供的视频、图片、产品资料或话题素材�
 
 ## 配音、字幕与输出
 
+选配背景音乐时读 [references/bgm-selection.md](references/bgm-selection.md)。用户已提供8类BGM搭配规则；按实际存在的音乐和题材自动选曲、试听与混音，配音优先清晰，使用已认可的变调快语速时只处理配音轨。音乐资产在本机 assets/BGM，公共仓库提供索引与规则，缺少音频时须核实导入。
+
 实际合成或排查配音、时间线、字幕问题时，读 [references/production-checks.md](references/production-checks.md)。其中包含首条测试证实的检查方法；具体裁切坐标、主题和音色属于单次项目，不能套用于新素材。
 
 先检查本环境可用的剪辑、配音和转写能力。可用 FFmpeg 或其他实际存在的工具完成合成，不限定剪映。需要操作应用时先读取对应工具/skill 的操作规则。
