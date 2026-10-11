@@ -21,10 +21,10 @@ def build(root):
  files=sorted(p for p in folder.rglob('*') if p.is_file() and p.suffix.lower() in {'.mp3','.flac','.wav','.m4a','.aac','.ogg','.opus'}) if folder.exists() else []
  with concurrent.futures.ThreadPoolExecutor(max_workers=3) as ex:rows=list(ex.map(lambda p:check(root,p),files))
  for i,row in enumerate(rows):
-  row['id']=f'B{i+1:03}'
+  row['id']=prior.get(row['path'],{}).get('id',f'B{i+1:03}')
   for k in ['title','artists','requested','match_kind','source','source_note']:
    if k in prior.get(row['path'],{}):row[k]=prior[row['path']][k]
- data={'total':len(rows),'decodable':sum(x['decodable'] for x in rows),'bytes':sum(x['bytes'] for x in rows),'tracks':rows,'distribution':'Audio files are local-only; public repository provides index and guidance.'}
+ data={'total':len(rows),'decodable':sum(x['decodable'] for x in rows),'bytes':sum(x['bytes'] for x in rows),'tracks':rows,'distribution':'Compressed MP3 audio is included in the public repository; verify actual files before use.'}
  previous.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
  print(json.dumps({k:v for k,v in data.items() if k!='tracks'},ensure_ascii=False),flush=True)
  return data
