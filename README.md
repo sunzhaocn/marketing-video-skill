@@ -4,13 +4,15 @@
 
 ## 效果演示
 
-[![胡歌《仙剑三》热点测试视频](demo/huge-xianjian3-cover.jpg)](demo/huge-xianjian3-demo.mp4)
+点击下方播放器即可在本页观看：
+
+https://github.com/user-attachments/assets/5b303153-27c4-4b63-9b16-bc1c91bba4c6
 
 [查看测试视频](demo/huge-xianjian3-demo.mp4) · [下载 MP4](https://raw.githubusercontent.com/sunzhaocn/marketing-video-skill/main/demo/huge-xianjian3-demo.mp4)
 
 约97秒，采用随机模板、尖嗓快语速、开场放大、大字幕和动态表情包。先选择关键素材，再写旁白串联；关键原声段关闭新增BGM，保留发言语境。视频以转载片段为依据，不把网友观点包装成当事人回应。
 
-演示视频约13 MiB，放在仓库的 `demo/` 目录，供预览参考。
+内嵌播放使用约8 MB的压缩版，完整时长不变；约13 MiB的原版保存在仓库的 `demo/` 目录，可通过上方链接下载。
 
 ## 安装与更新
 
