@@ -38,4 +38,6 @@ py -3 -X utf8 "<skill目录>/scripts/index_assets.py"
 
 ## 视频模板
 
-新增15个视频参考成片，使用方法见 [video-templates.md](video-templates.md)。视频索引为 `assets/video-template-index.json`，视频预览为 `assets/previews/video-catalog-01.jpg` 至 `video-catalog-03.jpg`；原图片索引仍只管理表情包与背景图片。
+16个视频参考成片，使用方法见 [video-templates.md](video-templates.md)。视频索引为 `assets/video-template-index.json`，视频预览为 `assets/previews/video-catalog-01.jpg` 至 `video-catalog-04.jpg`；原图片索引仍只管理表情包与背景图片。
+
+另外保留14条段子、热评和科技解说的代表案例，位于 `assets/参考案例/`，约17.8 MiB；用途与选择见 [humor-comment-workflow.md](humor-comment-workflow.md)，索引为 `assets/reference-case-index.json`。它们用来学习结构，不默认当作干净背景或当前事实来源。

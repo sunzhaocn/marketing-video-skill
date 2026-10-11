@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/253e16d9-6a69-4776-bfdf-a7760b94dc2c
 
 > 使用 $skill-installer 安装 https://github.com/sunzhaocn/marketing-video-skill/tree/main/marketing-video 中的 skill。
 
-音乐文件采用48 kbps MP3压缩格式，62首约70 MiB，直接随仓库下载，无需Git LFS。全部素材合计约388 MiB；请等待下载完成并检查音频实际存在。已安装旧版时，可让Codex更新BGM及索引，保留个人配置和自添素材。
+音乐文件采用48 kbps MP3压缩格式，62首约70 MiB，直接随仓库下载，无需Git LFS。skill素材合计约406 MiB（不含仓库演示视频）；请等待下载完成并检查音频实际存在。已安装旧版时，可让Codex更新BGM及索引，保留个人配置和自添素材。
 
 安装后下一轮可以使用 `$marketing-video`。安装本身不会启动定制问答，也不会自动安装配音或视频工具。
 
@@ -106,6 +106,8 @@ https://github.com/user-attachments/assets/253e16d9-6a69-4776-bfdf-a7760b94dc2c
 
 仓库包含507个表情包（133个动态、374个静态）、10张背景/图文参考素材，以及编号预览和格式索引；另含16个视频模板参考成片（约127 MiB）。视频模板用于参考结构，旧字幕、水印和旧事件不能直接套进新视频。部分背景图是图文参考拼图，使用前需检查。
 
+另从269条用户参考视频中精简保留14条段子、网友热评与科技解说案例（约18 MiB），配有索引及两张预览。制作这些题材时按需读取 [段子与热评制作方法](marketing-video/references/humor-comment-workflow.md)，学习铺垫、逐步揭示、包袱回扣与画面分工；不会把样例的旧品牌、历史笑话或产品说法当成新稿事实。
+
 把新素材放进**本机安装的skill目录**，再让 Codex 检查和更新索引：
 
 | 素材 | 存放目录（相对skill根目录） | 更新方式 |
@@ -113,13 +115,14 @@ https://github.com/user-attachments/assets/253e16d9-6a69-4776-bfdf-a7760b94dc2c
 | 表情包 | `assets/表情包/` | `scripts/index_assets.py` 更新索引与预览 |
 | 背景/参考图 | `assets/背景素材/` | `scripts/index_assets.py` 更新索引与预览 |
 | 视频模板 | `assets/视频模板/` | 让Codex检查并更新独立视频索引与预览 |
+| 结构参考案例 | `assets/参考案例/` | 让Codex检查并更新 `reference-case-index.json` 与预览 |
 | BGM音频 | `assets/BGM/` 对应分类 | `scripts/index_bgm.py` 更新音乐索引 |
 
 例如：
 
 > 我在素材库里加了新素材，请检查可用性并更新索引，以后制作时可以使用。
 
-BGM包含8类选曲规则、62首曲目索引及**48 kbps MP3音频（约70 MiB）**，直接随仓库提供；实际有音频才会选用。没有音乐时可制作无BGM版本。静态与动态素材按真实格式区分，动画保留逐帧时长。最初分析的示例视频、新闻截图和测试成片也不随仓库发布。
+BGM包含8类选曲规则、62首曲目索引及**48 kbps MP3音频（约70 MiB）**，直接随仓库提供；实际有音频才会选用。没有音乐时可制作无BGM版本。静态与动态素材按真实格式区分，动画保留逐帧时长。最初分析的示例视频及新闻截图不随仓库发布；公开的两条测试成片放在仓库 `demo/`，与安装用的skill素材分开。
 
 长期个人偏好用“修改配置”保存；公共制作规则放在 `references/` 并从 `SKILL.md` 链接。一次事件的源素材和成片保留在项目内。
 

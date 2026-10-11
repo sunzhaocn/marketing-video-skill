@@ -37,6 +37,8 @@ description: 根据用户提供的视频、图片、产品资料或话题素材�
 
 用户提供视频模板时，读 [references/video-templates.md](references/video-templates.md)，从 `assets/视频模板/` 的索引与预览选择结构参考；按本次用户要求决定风格，参考成片的旧字幕、水印和内容不直接套入新稿。
 
+制作短段子、网友热评、对比梗或短科技解说时，按需读 [references/humor-comment-workflow.md](references/humor-comment-workflow.md)，查14条代表案例的索引与预览。学习铺垫、逐步揭示、包袱回扣及画面承载信息的方法，不照搬旧故事、品牌或未经核实的产品说法；事件类仍使用素材先行流程。
+
 制作前读取 [references/material-library.md](references/material-library.md)，并从 skill 的 `assets/表情包/` 与 `assets/背景素材/` 中选择本次合适的素材。用户已明确允许这些素材用于后续视频，不必逐个再次询问。结合编号预览和索引定位文件，再检查候选原素材；“全部加入素材库”不等于每条视频全部使用。
 
 - 趣味解说：按上述句式要求突出明确事件或反差，按信息推进安排画面，表情包承担反应、转折或停顿职责。保留笑点的必要铺垫，正文避免逐句重复同一开场口头禅。
