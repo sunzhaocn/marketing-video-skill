@@ -23,6 +23,8 @@ description: 根据用户提供的视频、图片、产品资料或话题素材�
 
 ## 内容与剪辑
 
+编排开场、画面动效、转场和音效前，读 [references/editing-packaging.md](references/editing-packaging.md)。采用用户要求的抓眼开场、素材拼贴和重点包装；普通展示段保持稳定，不做持续周期性晃动。节奏服从信息和阅读时间，重点动效结束后停稳。
+
 用户提供视频模板时，读 [references/video-templates.md](references/video-templates.md)，从 `assets/视频模板/` 的索引与预览选择结构参考；按本次用户要求决定风格，参考成片的旧字幕、水印和内容不直接套入新稿。
 
 制作前读取 [references/material-library.md](references/material-library.md)，并从 skill 的 `assets/表情包/` 与 `assets/背景素材/` 中选择本次合适的素材。用户已明确允许这些素材用于后续视频，不必逐个再次询问。结合编号预览和索引定位文件，再检查候选原素材；“全部加入素材库”不等于每条视频全部使用。
